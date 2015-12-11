@@ -31,5 +31,13 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 7
 
+
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+
+# Settings for theme
+THEME = "pelican_themes/pelican-themes/monospace"
+MD_EXTENSIONS = ['codehilite(css_class=codehilite code)']
+DESCRIPTION = 'Pen your thoughts ... they are volatile'
