@@ -1,0 +1,11 @@
+output
+gitnore
+*~
+*.swp
+*.pyc
+*.orig
+.hg
+*hgignore*
+*zedstate*
+*.sqlite
+migrations
