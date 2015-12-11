@@ -38,6 +38,6 @@ DEFAULT_PAGINATION = 7
 
 
 # Settings for theme
-THEME = "pelican_themes/pelican-themes/monospace"
+THEME = "pelican_themes/monospace"
 MD_EXTENSIONS = ['codehilite(css_class=codehilite code)']
 DESCRIPTION = 'Pen your thoughts ... they are volatile'

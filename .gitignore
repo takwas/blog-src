@@ -9,3 +9,4 @@ gitnore
 *zedstate*
 *.sqlite
 migrations
+pelican_themes
