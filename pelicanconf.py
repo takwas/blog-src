@@ -26,6 +26,9 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 
+# metadata information: date and slug data from filename
+FILENAME_METADATA='(?P<date>\d{4}-\d{2}-\d{2})_(?P<slug>.*)'
+
 TWITTER_USERNAME = 'acetakwas'
 
 # Blogroll
