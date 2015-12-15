@@ -1,13 +1,11 @@
 Title: To be Forearmed is to be Help-ready
-Date: 2010-12-15 12:10
+Date: 2015-12-15 12:10
 Tags: irc, help, programming, beginner, pastebin, documentation, practice
-Slug: internet-help-ready
-Summary: Programming help seekers should do their homework or IRC folks might raise eyebrows.
+Slug: readying-for-net-help
+Summary: If you are seeking programming help, then do your homework or IRC folks might raise eyebrows.
 
 
 
-
-#To be Forearmed is to be Help-ready
 
 
 I felt compelled to write this after my personal experience trying to get help with my code on IRC.

@@ -4,7 +4,10 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Tosin Damilare James Animashaun'
 SITENAME = u'Volatile Musings of Ace Takwas'
-SITEURL = 'http://takwas.github.io'
+
+
+# During development, we want urls to be relative
+RELATIVE_URLS = True
 
 PATH = 'content'
 
@@ -32,17 +35,19 @@ FILENAME_METADATA='(?P<date>\d{4}-\d{2}-\d{2})_(?P<slug>.*)'
 TWITTER_USERNAME = 'acetakwas'
 
 # Blogroll
-LINKS = (('Github', 'github.com/takwas'),
-         ('Bitbucket', 'bitbucket.org/takwas'),
-         ('Powered by Pelican', 'getpelican.com/'),)
+LINKS = (('Powered by Pelican', 'http://getpelican.com/'))
          
 
 # Social widget
-SOCIAL = (('Quora', 'quora.com/Tosin-Damilare-James-Animashaun:'),
-          ('Goodreads', 'goodreads.com/user/show/41177369-tosin-damilare-james-animashaun'),
-          ('Facebook', 'facebook.com/takwas'),
-          ('Twitter', 'twitter.com/acetakwas'),
-          ('Google+', 'plus.google.com/+TosinAnimashaun/about?hl=en_GB'),)
+SOCIAL = (
+	('github', 'http://github.com/takwas'),
+	('bitbucket', 'http://bitbucket.org/takwas'),
+	('quora', 'http://quora.com/Tosin-Damilare-James-Animashaun:'),
+	('google', 'http://goodreads.com/user/show/41177369-tosin-damilare-james-animashaun'),)
+          
+          #('Facebook', 'http://facebook.com/takwas')
+          #('Twitter', 'http://twitter.com/acetakwas'),
+          #('Google+', 'http://plus.google.com/+TosinAnimashaun/about?hl=en_GB')
           #('Youtube', 'youtube.com/acetakwas'),)
 
 
@@ -55,6 +60,6 @@ DEFAULT_PAGINATION = 7
 
 
 # Settings for current theme
-THEME = "pelican_themes/hyde"
-MD_EXTENSIONS = ['codehilite(css_class=codehilite code)']
+THEME = "hyde"
+#MD_EXTENSIONS = ['codehilite(css_class=codehilite code)']
 DESCRIPTION = 'Pen your thoughts ... they are volatile'

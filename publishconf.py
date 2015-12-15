@@ -10,7 +10,9 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
+
 SITEURL = 'http://takwas.github.io'
+# During production, we do not want urls to be relative
 RELATIVE_URLS = False
 
 
