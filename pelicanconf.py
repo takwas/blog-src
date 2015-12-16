@@ -47,7 +47,7 @@ LINKS = (('Powered by Pelican', 'http://getpelican.com/'))
 SOCIAL = (
 	('github', 'http://github.com/takwas'),
 	('bitbucket', 'http://bitbucket.org/takwas'),
-	('quora', 'http://quora.com/Tosin-Damilare-James-Animashaun:'),
+	('quora', 'http://quora.com/Tosin-Damilare-James-Animashaun'),
 	('goodreads', 'http://goodreads.com/user/show/41177369-tosin-damilare-james-animashaun'),)
           
           #('Facebook', 'http://facebook.com/takwas')
