@@ -12,14 +12,20 @@ from pelicanconf import *
 
 
 SITEURL = 'http://takwas.github.io'
-# During production, we do not want urls to be relative
+# During production, we do not want urls to be relative,
+# they should instead be relative to <SITEURL> above
 RELATIVE_URLS = False
 
 
-FEED_RSS = 'feeds/all.rss.xml'
-CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+# Feeds config
+FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+TAG_FEED_ATOM = 'feeds/%s.atom.xml'
+TAG_FEED_RSS = 'feeds/%s.rss.xml'
+#FEED_MAX_ITEMS
 
 DELETE_OUTPUT_DIRECTORY = False
 

@@ -2,7 +2,7 @@ Title: To be Forearmed is to be Help-ready
 Date: 2015-12-15 12:10
 Tags: irc, help, programming, beginner, pastebin, documentation, practice
 Slug: readying-for-net-help
-Summary: If you are seeking programming help, then do your homework or IRC folks might raise eyebrows.
+Summary: If you are seeking programming help, then do your homework or your potential helpers might raise eyebrows.
 
 
 
@@ -34,7 +34,7 @@ I think it's fair to quote [Armin Ronacher](http://lucumr.pocoo.org/about/) here
 
 >By far, the worst parts in all of my libraries are where I took the design from somewhere else. And it's not because I know better, it's because pretty much everything everybody does at any point in time has some sort of design decision behind it ... that major decision process.
 
->So someone came up with a solution for a particular problem, and he thought about it and then wrote it down. But if you look at someone else's design, you might no longer understand why the decision was made in the first place. And ... in fact, if the original implementation is ten years old, who knows if the design ideas behind it are still entirely correct."like Armin Rnacher said
+>So someone came up with a solution for a particular problem, and he thought about it and then wrote it down. But if you look at someone else's design, you might no longer understand why the decision was made in the first place. And ... in fact, if the original implementation is ten years old, who knows if the design ideas behind it are still entirely correct."
   
 <br/>
 Personally, I like to answer questions and help put people on track. Nonetheless, if the queries got too overwhelming -- especially coming from the same person -- I would eventually lose interest in answering questions.
@@ -45,7 +45,8 @@ Let me remind you of some __tidbits or etiquettes of IRC__:
 * Construct your questions well (concise, well written and straight-to-the-point questions are more likely to attract help)
   
   
-* Don't EVER ~~post code in a channel~~! [Pastebin](https://en.wikipedia.org/wiki/Pastebin)__[1]__ it and share the link in the channel instead. While at it, don't post your entire code (unless you specifically need to). Post only the relevant portion -- the one you have an issue with.  
+* Don't EVER post code in a channel! [Pastebin](https://en.wikipedia.org/wiki/Pastebin)<sup>__[1]__</sup> it and share the link in the channel instead. While at it, don't post your entire code (unless you specifically need to). Post only the relevant portion -- the one you have an issue with. The only exception to this is if the snippet of code is considerably short, say one or two lines.
+
   
   
 * Don't be overly respectful. Yes, dont be too respectful -- _cut all the 'Sirs'_. Only be moderately polite.
@@ -58,9 +59,9 @@ Let me remind you of some __tidbits or etiquettes of IRC__:
 
 <br/>
 
-So where do you look to before looking to IRC? There are three places to __read__ from before turning to internet-relay-chat for help:
+So where do you look to before looking to IRC? There are three sources you may __read__ from before turning to internet-relay-chat for help:
   
-* __Read the documentation__. Documentation is the manual the creator or experts of a software tool provide the users with. So you want to know the ins and outs of a technology? That's the right place to look.
+* __Read the documentation__. * Documentation is the manual the creator or experts of a software product or tool provide their users with. So you want to know the ins and outs of a technology? That's the right place to look.
   
   
 * __Read blog posts__ related to your topic-area. Blog posts are often based on people's experiences, so you're likely to find help from there, especially if the writer has faced the same issue. Remember to `bookmark` the really helpful ones as you go ;).
