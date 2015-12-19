@@ -118,7 +118,7 @@ DEFAULT_PAGINATION = 7
 
 
 # Settings for current theme
-THEME = 'plumage'
+THEME = 'plumage_takwas'
 #MD_EXTENSIONS = ['codehilite(css_class=codehilite code)']
 
 
