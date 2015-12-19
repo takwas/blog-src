@@ -11,7 +11,10 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 
-SITEURL = 'http://takwas.github.io'
+
+SITEURL = 'http://takwas.github.io/'
+SITE_FULL_URL = SITEURL
+SITEROOT = '/'
 # During production, we do not want urls to be relative,
 # they should instead be relative to <SITEURL> above
 RELATIVE_URLS = False
