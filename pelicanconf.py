@@ -7,7 +7,7 @@ from hashlib import md5
 
 
 SITENAME = u'reBLOGitations'
-DESCRIPTION = u"ac3Takwas' regurgitation space"
+DESCRIPTION = u'regurgitations of ac3Takwas' #la régurgitations de ac3Takwas"
 SITE_TAGLINE = DESCRIPTION
 SITE_SOURCE = u'https://github.com/takwas/blog-src'
 
@@ -16,13 +16,13 @@ BIO = \
 	u'''
 		<p>I am <strong>{0}</strong>.</p>
 		
-		<p>In here is where I document stuff as I grow. Among other
-		things, I am a Christian, a Programmer, and a budding Entrepreneur.</p>
+		<p>In here is where I document stuff as I go. Among a host of other
+		personas, I am a Christian, a Programmer, and a budding Entrepreneur.</p>
 		
-		<p>I enjoy reading -- especially on Quora -- and I appreciate writing.
-		Some other interests include singing, technology, and Psychology. Might I also add "knowledge" which would make me ... you guessed it, <em>sapiophilic</em>.</p>
+		<p>I enjoy reading --  I read a fair bit of Quora -- and I appreciate writing, and try to be good at it myself.
+		Some other interests include singing, technology, and psychology. Might I also add "knowledge seeking" which would make me ... you guessed it, <em>sapiophilic</em>.</p>
 
-		<p>In my spare time, I listen to podcasts about topics of interest.</p>
+		<p>In my spare time, I listen to podcasts about different topics of interest.</p>
 	'''.format(AUTHOR)
 
 
@@ -131,7 +131,11 @@ SITE_THUMBNAIL_TEXT = \
 	'''
 
 
-MENUITEMS = [('Home', '/'), ('About', '/') ]
+MENUITEMS = [
+	('Home', '/'),
+	#(''),
+	#('Being Christian', '/'),
+	('About', '#about'), ]
 
 SITESUBTITLE = DESCRIPTION
 
