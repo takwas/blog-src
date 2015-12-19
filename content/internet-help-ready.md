@@ -1,6 +1,6 @@
 Title: To be Forearmed is to be Help-ready
 Date: 2015-12-15 12:10
-Tags: irc, help, programming, beginner, pastebin, documentation, practice
+Tags: irc, help, programming, beginner, pastebin, documentation, practice, dev, planet
 Slug: readying-for-net-help
 Summary: If you are seeking programming help, then do your homework or your potential helpers might raise eyebrows.
 

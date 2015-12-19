@@ -33,3 +33,7 @@ DELETE_OUTPUT_DIRECTORY = False
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
+
+
+# Load gravatar for production
+SITE_THUMBNAIL = "http://www.gravatar.com/avatar/{0}.jpg?s=80&r=g&d=identicon".format(AUTHOR_EMAIL_HASH)
