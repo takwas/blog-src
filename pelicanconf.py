@@ -6,18 +6,35 @@ from hashlib import md5
 
 
 
-SITENAME = u'ac3Takwas | reBLOGitations'
-DESCRIPTION = u'Pen your thoughts ... they are volatile'
+SITENAME = u'reBLOGitations'
+DESCRIPTION = u"ac3Takwas' regurgitation space"
 SITE_TAGLINE = DESCRIPTION
 SITE_SOURCE = u'https://github.com/takwas/blog-src'
-BIO = u'Christian, Programmer, Quoracious reader'
+
 AUTHOR = u'Tosin Damilare James Animashaun'
-AUTHOR_SHORTBIO = BIO
+BIO = \
+	u'''
+		<p>I am <strong>{0}</strong>.</p>
+		
+		<p>In here is where I document stuff as I grow. Among other
+		things, I am a Christian, a Programmer, and a budding Entrepreneur.</p>
+		
+		<p>I enjoy reading -- especially on Quora -- and I appreciate writing.
+		Some other interests include singing, technology, and Psychology. Might I also add "knowledge" which would make me ... you guessed it, <em>sapiophilic</em>.</p>
+
+		<p>In my spare time, I listen to podcasts about topics of interest.</p>
+	'''.format(AUTHOR)
+
+
+AUTHOR_SHORTBIO = u'Christian, Programmer, budding Entrepreneur, Quoran'
 AUTHOR_EMAIL = u'acetakwas@gmail.com'
 AUTHOR_EMAIL_HASH = md5(AUTHOR_EMAIL).hexdigest()
 TWITTER_USERNAME = u'acetakwas'
 GITHUB_USERNAME = u'takwas'
 GITHUB_BADGE = True
+
+# custom config variable for IRC
+IRC_NICK = u'acetakwas'
 
 
 # During development, we want urls to be relative
@@ -33,19 +50,30 @@ PATH = 'content/'
 #ARTICLE_DIR = PATH
 
 
+SITEURL = 'http://takwas.github.io'
+# FEED_DOMAIN = SITEURL
+# FEED_ATOM = 'feeds/main.atom.xml'
+# FEED_RSS = 'feeds/main.rss.xml'
+# FEED_ALL_ATOM = 'feeds/all.atom.xml'
+# FEED_ALL_RSS = 'feeds/all.rss.xml'
+# CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+# CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+# TAG_FEED_ATOM = 'feeds/%s.atom.xml'
+# TAG_FEED_RSS = 'feeds/%s.rss.xml'
+
 # Feed generation is usually not desired when developing
-FEED_ATOM = None #'feeds/main.atom.xml'
-FEED_RSS = None #'feeds/main.rss.xml'
-FEED_ALL_ATOM = None
-FEED_ALL_RSS = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-CATEGORY_FEED_ATOM = None
-CATEGORY_FEED_RSS = None
-TAG_FEED_ATOM = None
-TAG_FEED_RSS = None
-TRANSLATION_FEED_ATOM = None
-TRANSLATION_FEED_RSS = None
+# FEED_ATOM = None #'feeds/main.atom.xml'
+# FEED_RSS = None #'feeds/main.rss.xml'
+# FEED_ALL_ATOM = None
+# FEED_ALL_RSS = None
+# AUTHOR_FEED_ATOM = None
+# AUTHOR_FEED_RSS = None
+# CATEGORY_FEED_ATOM = None
+# CATEGORY_FEED_RSS = None
+# TAG_FEED_ATOM = None
+# TAG_FEED_RSS = None
+# TRANSLATION_FEED_ATOM = None
+# TRANSLATION_FEED_RSS = None
 
 
 
@@ -54,13 +82,13 @@ FILENAME_METADATA='(?P<date>\d{4}-\d{2}-\d{2})_(?P<slug>.*)'
 
 
 
-SOCIAL_WIDGET_NAME = "Web Hangouts"
+SOCIAL_WIDGET_NAME = "I am on"
 LINKS_WIDGET_NAME = "Bookmarks"
 
 GRAB_ICONS = True
 
 # Blogroll
-LINKS = (('Blog', '#0'),)
+#LINKS = (('Blog', '#0'),)
 
 # Social widget
 SOCIAL = (
@@ -106,4 +134,9 @@ SITE_THUMBNAIL_TEXT = \
 MENUITEMS = [('Home', '/'), ('About', '/') ]
 
 SITESUBTITLE = DESCRIPTION
+
+DISCLAIMER = False
+
+
+
 
