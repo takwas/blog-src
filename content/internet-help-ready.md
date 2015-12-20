@@ -76,13 +76,12 @@ So why not arm yourself properly before going to post that question. That way, y
 __ __
 
 #####[1] Some Pastebin platforms I use:
- - http://pastebin.com
- - http://hastebin.com
- - http://paste.ubuntu.com
- - http://pastie.org
- - http://paste.pocoo.org
- - http://paste.pound-python.org
- - http://paste.linux.chat
+ - [Pastebin](http://pastebin.com)
+ - [Hastebin](http://hastebin.com)
+ - [Ubuntu Pastebin](http://paste.ubuntu.com)
+ - [Pastie](http://pastie.org)
+ - [Spacepaste](http://paste.pound-python.org)
+ - [##Linux on Freenode](http://paste.linux.chat)
 
 Then [Github](http://github.com) provides a platform which supports version-controlled pastes: [Github Gists](http://gist.github/com).
  

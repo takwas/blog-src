@@ -6,23 +6,22 @@ from hashlib import md5
 
 
 
-SITENAME = u'reBLOGitations'
-DESCRIPTION = u'regurgitations of ac3Takwas' #la régurgitations de ac3Takwas"
+SITENAME = u'acetakwas.log ();'
+DESCRIPTION = u"while True: print \\ " #la régurgitations de ac3Takwas"
 SITE_TAGLINE = DESCRIPTION
 SITE_SOURCE = u'https://github.com/takwas/blog-src'
 
 AUTHOR = u'Tosin Damilare James Animashaun'
 BIO = \
 	u'''
-		<p>I am <strong>{0}</strong>.</p>
+		<p>Full name: <strong>{0}</strong>.</p>
 		
 		<p>In here is where I document stuff as I go. Among a host of other
-		personas, I am a Christian, a Programmer, and a budding Entrepreneur.</p>
-		
-		<p>I enjoy reading --  I read a fair bit of Quora -- and I appreciate writing, and try to be good at it myself.
-		Some other interests include singing, technology, and psychology. Might I also add "knowledge seeking" which would make me ... you guessed it, <em>sapiophilic</em>.</p>
+		personas, I am a Christian, programmer, and budding entrepreneur. I'm going to school too. I am currently doing a Software Engineering program at NIIT.</p>
 
-		<p>In my spare time, I listen to podcasts about different topics of interest.</p>
+		<p>I enjoy reading. I appreciate writing; and I try to be good at this myself. Some other interests include singing, technology, and psychology.</p>
+
+		<p>In my spare time, I listen to podcasts about different topics ranging from startups to technology, innovations, psychology and more.</p>
 	'''.format(AUTHOR)
 
 
