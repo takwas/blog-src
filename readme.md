@@ -1,6 +1,4 @@
-This is the repository containing Pelican source 
-files for setting up and generating content on
-my Github-hosted static blog:
+#####Pelican source files for setting up and generating static content for my Github-hosted static blog:
 
-[ac3Takwas | reBLOGitations](http://takwas.github.io/)
+[acetakwas.log();](http://takwas.github.io/)
 
