@@ -1,5 +1,14 @@
-Plumage
-=======
+#The theme I use is a forked version of [Plumage](https://github.com/kdeldycke/plumage)
+
+The original source lives @: https://github.com/kdeldycke/plumage
+
+And the following is a copy of the ReadMe from the page.
+
+____
+<br/>  
+____
+
+##Plumage
 
 Plumage is a theme for [Pelican](http://getpelican.com), a static site
 generator written in Python.
