@@ -7,6 +7,8 @@
   font-family: "Open Sans",sans-serif;
   width: 16px;
   height: 16px;
+  padding-top: 4px;
+  vertical-align: text-bottom;
 }
 
 /*Custom code by ac3Takwas*/
@@ -19,6 +21,16 @@
   background-image: url('/theme/img/icon_goodreads.png');
 }
 
+
+
+.sitename{
+  font-family: 'Inconsolata', 'monospace' !important;
+}
+
+.sitetagline{
+  font-family: 'courier' !important;
+  font-size: 30px !important;
+}
 
 
 body, input, button, select, textarea, li, .navbar-search .search-query {
@@ -308,9 +320,10 @@ a {
 footer {
   border-top: 1px solid #fff;
   margin-top: 50px;
-  background: url(/theme/img/creampaper.png);
+  /*background: url(/theme/img/creampaper.png); commented out by ac3Takwas*/
+  background-color: #FFFAFA ;  /*Added by ac3Takwas*/
   padding: 20px;
-  text-shadow: 0px 1px 1px white;
+  /*text-shadow: 0px 1px 1px white; commented out by ac3Takwas*/
   box-shadow: inset 0 30px 30px -30px rgba(0, 0, 0, 0.5);
 }
 footer .container .span12 {

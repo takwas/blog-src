@@ -6,7 +6,7 @@ from hashlib import md5
 
 
 
-SITENAME = u'acetakwas.log ();'
+SITENAME = u'acetakwas.log();'
 DESCRIPTION = u"while True: print \\ " #la régurgitations de ac3Takwas"
 SITE_TAGLINE = DESCRIPTION
 SITE_SOURCE = u'https://github.com/takwas/blog-src'
