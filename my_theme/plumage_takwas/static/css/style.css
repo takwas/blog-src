@@ -21,22 +21,26 @@
   background-image: url('/theme/img/icon_goodreads.png');
 }
 
-
-
 .sitename{
   font-family: 'Inconsolata', 'monospace' !important;
 }
 
 .sitetagline{
   font-family: 'courier' !important;
-  font-size: 30px !important;
+  font-size: 24px !important;
 }
 
 
+
+
+
+
+
+/*Original theme styling*/
 body, input, button, select, textarea, li, .navbar-search .search-query {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 25px;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Istok Web', sans-serif;
@@ -79,7 +83,7 @@ body {
   float: left;
   width: 80px;
   height: 80px;
-  margin: 0 20px;
+  margin: 10px 20px;
   position: relative;
   -webkit-perspective: 600;
   -moz-perspective: 600;
