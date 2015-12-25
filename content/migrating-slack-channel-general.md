@@ -14,6 +14,7 @@ Summary: Slack gives you a platform for communication, but includes in the packa
 [Slack](http://slack.com) is a communication platform built for teams. While it is free by default, there are features reserved for paid users. However, the free version already comes with a ton of cool features, and is highly usable as is, especially for teams that are relatively small. My team has stuck with this unpaid version of the application for a few months.
 
 Recently, we decided to have our clients join our Slack team, with some envisaged benefits:
+
 * It would ease the process of keeping the client up-to-date on project progress
 * It would bring our clients to our preferred communication platform, bringing them all in one place
 * We could leverage some of the many tools available for use with Slack to improve our communication with clients. It's worth noting that Slack is very API friendly.
@@ -43,9 +44,11 @@ With this changes in place, I compressed the modified files alongside the unmodi
 During the import, Slack automatically tried to match detected channels (from the import) with existing ones, afterwhich I was presented with a page that showed the mapping suggestions. I simply set it not to map but create new channels instead.
 
 Upon successful completion of the imports, I went on to delete all the messages in the existing #general channel. Those messages where now the contents of a newly minted channel, created using the new name I previously gave to it. The only things left were:
-   
-   1. I marked the new channel as _private_, and
-   2. I welcomed our new client to the team __;) __
+
+With all these in place, I did two more things:
+
+* I edited and marked the new channel as _private_, and
+* I welcomed our new client to the team __;) __
 
 
 <br/>
