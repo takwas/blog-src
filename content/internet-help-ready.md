@@ -7,7 +7,6 @@ Summary: If you are seeking programming help, then do your homework or your pote
 
 
 
-
 I felt compelled to write this after my personal experience trying to get help with my code on IRC.
 
 We all love to make the computer do things exactly the way we want, so some of us choose to take the bold step of learning to communicate with the machine. And it is not uncommon to find many of our burgeoning kind go from *location to location on the web space* trying to get help along the way. We are prompt to ask questions when we sight help.  
