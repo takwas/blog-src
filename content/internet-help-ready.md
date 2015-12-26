@@ -18,7 +18,9 @@ The domain of computer programming or software development is a very practical o
 
 The thing about learning languages (or technologies) by reading big manuals is that, often times, beginners will approach the process like they would any other literature book. But that is clearly a wrong approach as empirical evidence has shown. You don't read these things to simply stomach them. Instead, you swallow and then post-process. In essence, you ruminate over stuff.
 
+<br/>
 >In truth, the only way you can really process what you read is to **try things out and see results for yourself**.
+<br/>
 
 Weeks ago, while building an app, I visited IRC frequently to ask questions on just about everything that was unclear to me. While this mode of communication and seeking help is encouraged, abuse of it is strongly discouraged. The good guys over on the IRC channels get pissed off when it appears you're boycotting available resources like documentation, preferring to be spoonfed the whole time. (Remember this is not [Quora](http://www.quora.com), where the philosophy is for you to ask more and more questions).
 

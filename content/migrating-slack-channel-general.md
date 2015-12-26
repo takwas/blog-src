@@ -7,8 +7,6 @@ Summary: Slack gives you a platform for communication, but includes in the packa
 
 
 
-# Slack is Tweak-friendly
-
 > How I migrated the **#general** channel on Slack.
 
 [Slack](http://slack.com) is a communication platform built for teams. While it is free by default, there are features reserved for paid users. However, the free version already comes with a ton of cool features, and is highly usable as is, especially for teams that are relatively small. My team has stuck with this unpaid version of the application for a few months.
@@ -43,7 +41,7 @@ With this changes in place, I compressed the modified files alongside the unmodi
 
 During the import, Slack automatically tried to match detected channels (from the import) with existing ones, afterwhich I was presented with a page that showed the mapping suggestions. I simply set it not to map but create new channels instead.
 
-Upon successful completion of the imports, I went on to delete all the messages in the existing #general channel. Those messages where now the contents of a newly minted channel, created using the new name I previously gave to it. The only things left were:
+Upon successful completion of the imports, I went on to delete all the messages in the existing #general channel. Those messages were now the contents of a newly minted channel, created using the new name I previously gave to it. The only things left were:
 
 With all these in place, I did two more things:
 
