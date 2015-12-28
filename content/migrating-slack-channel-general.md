@@ -2,7 +2,7 @@ Title: Slack is Tweak-friendly
 Date: 2015-12-25 23:23
 Tags: slack, configuration, json, general, backup, communication, planet
 Slug: migrating-slack-channel-general
-Summary: Slack gives you a platform for communication, but includes in the package, control over your data.
+Summary: Slack gives your team a platform for communication. Included in that package is near-full control over your data.
 
 
 
