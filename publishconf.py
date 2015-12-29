@@ -32,6 +32,11 @@ TAG_FEED_ATOM = 'feeds/%s.atom.xml'
 TAG_FEED_RSS = 'feeds/%s.rss.xml'
 #FEED_MAX_ITEMS
 
+
+# Support for Disqus comments
+DISQUS_SITENAME = 'acetakwas-log'
+
+
 # Do not delete the directory; it is git version-controlled
 DELETE_OUTPUT_DIRECTORY = False
 

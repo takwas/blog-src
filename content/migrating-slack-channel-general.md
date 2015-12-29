@@ -46,7 +46,7 @@ Upon successful completion of the imports, I went on to delete all the messages 
 With all these in place, I did two more things:
 
 * I edited and marked the new channel as _private_, and
-* I welcomed our new client to out Slack space __;) __
+* I welcomed our new client to our Slack space __;) __
 
 
 <br/>

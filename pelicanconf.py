@@ -17,7 +17,7 @@ BIO = \
 		<p>Full name: <strong>{0}</strong>.</p>
 		
 		<p>In here is where I document stuff as I go. Among a host of other
-		personas, I am a Christian, programmer, and budding entrepreneur. I'm going to school too. I am currently doing a Software Engineering program at NIIT.</p>
+		personas, I am a Christian, programmer, and budding entrepreneur. I'm going to school too. I am currently doing a Software Engineering program at <a href="http://www.niitlagos.com/about.html">NIIT, Nigeria.</a></p>
 
 		<p>I enjoy reading. I appreciate writing; and I try to be good at this myself. Some other interests include singing, technology, and psychology.</p>
 
@@ -141,5 +141,7 @@ SITESUBTITLE = DESCRIPTION
 DISCLAIMER = False
 
 
+# # Support for Disqus comments
+# DISQUS_SITENAME = 'acetakwas-log'
 
 
