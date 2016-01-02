@@ -82,6 +82,15 @@
               <li {% if p == page %} class="active" {% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
             {% endfor %}
           {% endif %}
+          {#
+          {% if DISPLAY_CATEGORIES_ON_MENU %}
+            
+            {% for c in CATEGORIES %}
+              <li {% if c == category %} class="active" {% endif %}><a href="{{ SITEURL }}/{{ c.url }}">{{ c.title }}</a></li>
+            {% endfor %}
+            
+          {% endif %}
+          #}
         </ul>
         {% if GOOGLE_SEARCH %}
           <form class="navbar-search pull-right" action="http://www.google.com" target="_blank">

@@ -42,6 +42,7 @@ RELATIVE_URLS = True
 DEFAULT_LANG = u'en'
 
 DEFAULT_CATEGORY = 'Uncategorized'
+#DISPLAY_CATEGORIES_ON_MENU = True
 
 TIMEZONE = 'Africa/Lagos'
 
@@ -134,7 +135,8 @@ MENUITEMS = [
 	('Home', '/'),
 	#(''),
 	#('Being Christian', '/'),
-	('About', '#about'), ]
+	('About', '#about'),
+	('Life Log', '/category/life-log.html') ]
 
 SITESUBTITLE = DESCRIPTION
 
