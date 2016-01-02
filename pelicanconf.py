@@ -131,14 +131,14 @@ SITE_THUMBNAIL_TEXT = \
 	'''
 
 
-MENUITEMS = [
+MENUITEMS = (
 	('Home', '/'),
 	#(''),
 	#('Being Christian', '/'),
 	('About', '#about'),
-	('Life Log', '/category/life-log.html') ]
+	('Life Log', '/category/life-log.html'), )
 
-SITESUBTITLE = DESCRIPTION
+SITESUBTITLE = SITE_TAGLINE
 
 DISCLAIMER = False
 

@@ -37,7 +37,7 @@ TAG_FEED_RSS = 'feeds/%s.rss.xml'
 DISQUS_SITENAME = 'acetakwas-log'
 
 
-# Do not delete the directory; it is git version-controlled
+# DO NOT DELETE the "output" directory; it is git version-controlled
 DELETE_OUTPUT_DIRECTORY = False
 
 # Following items are often useful when publishing
