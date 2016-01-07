@@ -1,9 +1,9 @@
-Title: Life-Log: January 2, 2016
+Title: Life-Log 2: January 2, 2016
 Date: 2016-01-03 02:45
-Modified: 2016-01-05 11:20
+Modified: 2016-01-07 11:35
 Category: Life Log
-Tags: life, journal, diary, january, church, family
-Slug: 02.01.2016
+Tags: life, journal, diary
+Slug: life-log-02-january-2016
 Summary: Life log of Saturday, January 2, 2016
 
 

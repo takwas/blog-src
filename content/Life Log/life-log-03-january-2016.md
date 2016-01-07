@@ -1,9 +1,9 @@
-Title: Life-Log: January 3, 2016
+Title: Life-Log 3: January 3, 2016
 Date: 2016-01-05 06:30
-Modified: 2016-01-05 11:00
+Modified: 2016-01-07 11:35
 Category: Life Log
-Tags: life, journal, diary, january, church, pastor
-Slug: 03.01.2016
+Tags: life, journal, diary
+Slug: life-log-03-january-2016
 Summary: Life log of Sunday, January 3, 2016
 
 
@@ -18,7 +18,7 @@ Being the first Sunday of the year, one would expect some sort of thanksgiving s
 
 There were two prophecies, and one of them mentioned that, the service need not be rushed. This is worthy of note because, prior to both prophecies, the pastor had asked the prophets to keep their prophecies short.
 
-The sermon was tagged "Unselfish Desires ...". While I particularly liked this topic, I wasn't very pleased with some of the prayer points that followed. In my opinion, it was a case of "why ...an already ..." as they seemed rather contradictory to the theme of the sermon.
+The sermon was tagged "Unselfish Desires ...". While I particularly liked this topic, I wasn't very pleased with some of the prayer points that followed. In my opinion, they seemed rather contradictory to the theme of the sermon.
 
 <br />
 
@@ -51,3 +51,4 @@ On a different note, my sister returned home from my cousins' a few minutes befo
 + [The paradox of choice](http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice?language=en) - By Barry Schwartz
 + [The psychology of time](https://www.ted.com/talks/philip_zimbardo_prescribes_a_healthy_take_on_time?language=en) - By Philip Zimbardo
 + [Why we love; why we cheat](https://www.ted.com/talks/helen_fisher_tells_us_why_we_love_cheat?language=en) - By Helen Fisher
+

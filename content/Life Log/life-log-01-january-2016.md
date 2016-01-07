@@ -1,9 +1,9 @@
-Title: Life-Log: January 1, 2016
+Title: Life-Log 1: January 1, 2016
 Date: 2016-01-01 22:00
-Modified: 2016-01-05 11:20
+Modified: 2016-01-07 11:35
 Category: Life Log
-Tags: life, journal, diary, january, first day, church, fast, family, pastor
-Slug: 01.01.2016
+Tags: life, journal, diary
+Slug: life-log-01-january-2016
 Summary: Life log of Friday, January 1, 2016
 
 
