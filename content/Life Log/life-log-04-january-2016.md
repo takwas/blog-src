@@ -13,7 +13,10 @@ I _first_ woke up at exactly 2AM. I think two things I did yesterday made it eas
 
 Upon waking up, I checked Facebook, and was thrill-inspired by the status that appeared at the very top. It was by the creator of Facebook himself, Mark Zuckerberg. How inspiring it is to know that someone of that calibre still gave himself a book reading challenge -- he did so last year -- and on top of that, gave himself a new goal of building an AI for the new year -- he specifically said he'll do the coding himself, not instruct a technical team to do that.
 
+<br/>
 > "But it's a different kind of rewarding to build things yourself, so this year my personal challenge is to do that."
+
+<br/>
 
 I spent the next few hours cleaning up some not-yet-published scribbles and blog posts. I tried to code, but ended up just doing a little bit of reading, then returning to sleep at about 5AM.
 
