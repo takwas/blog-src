@@ -1,6 +1,6 @@
 Title: Life-Log 6: January 6, 2016
-Date: 2016-01-09 23:00
-Modified: 2016-01-09 23:00
+Date: 2016-01-10 21:00
+Modified: 2016-01-10 21:00
 Category: Life Log
 Tags: life, journal, diary
 Slug: life-log-06-january-2016
