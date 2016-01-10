@@ -11,7 +11,7 @@ Summary: Life log of Monday, January 4, 2016
 
 I _first_ woke up at exactly 2AM. I think two things I did yesterday made it easy for me to wake up that early: one, I had siesta; and two, I didn't eat dinner. I have noticed you gain more control over your night time sleep when you fail to eat supper. If you must eat however, I would reckon you go with something extremely light; even a beverage should suffice.
 
-Upon waking up, I checked Facebook, and was thrill-inspired by the status that appeared at the very top. It was by the creator of Facebook himself, Mark Zuckerberg. How inspiring it is to know that someone of that calibre still gave himself a book reading challenge -- he did so last year -- and on top of that, gave himself a new goal of building an AI for the new year -- he specifically said he'll do the coding himself, not instruct a technical team to do that.
+Upon waking up, I checked Facebook, and was thrill-inspired by the status that appeared at the very top. It was by the creator of Facebook himself, Mark Zuckerberg. How inspiring it is to learn that someone of that calibre still gave himself a book reading challenge -- he did so last year -- and on top of that, gave himself a new goal of building an AI for the new year -- he specifically said he'll do the coding himself, not instruct a technical team to do that.
 
 <br/>
 > "But it's a different kind of rewarding to build things yourself, so this year my personal challenge is to do that."
