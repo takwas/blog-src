@@ -1,6 +1,6 @@
 Title: Life-Log 6: January 6, 2016
 Date: 2016-01-10 21:00
-Modified: 2016-01-10 21:00
+Modified: 2016-01-14 23:59
 Category: Life Log
 Tags: life, journal, diary
 Slug: life-log-06-january-2016
@@ -9,7 +9,7 @@ Summary: Life log of Wednesday, January 6, 2016
 
 
 
-There hasn't  been much activity today. Since returning in the morning from the vigil I attended last night combined with an early morning church service.
+I attended church service early this morning just before returning home from the vigil I attended last night.
 
 <br />
 
@@ -32,6 +32,6 @@ Now I realise that I am only clothed when I go out, and people simply adore my n
 So if the people here (at home) have been able to put up with me until now, then I feel I should show some appreciation.
 
 
-I also thought of curating a list of must learn Python modules.
+I also thought of curating a list of must-learn Python modules.
 
 I've been trying to get acquainted with testing and packaging in Python. So I have been putting some time into learning this.
