@@ -145,5 +145,3 @@ DISCLAIMER = False
 
 # # Support for Disqus comments
 # DISQUS_SITENAME = 'acetakwas-log'
-
-ARTICLE_EXCLUDES = ('content/Life Log')
