@@ -92,10 +92,17 @@ GRAB_ICONS = True
 
 # Social widget
 SOCIAL = (
-	('quora', 'http://quora.com/Tosin-Damilare-James-Animashaun'),
-	('github', 'http://github.com/takwas'),
-	('bitbucket', 'http://bitbucket.org/takwas'),
-	('goodreads', 'http://goodreads.com/user/show/41177369-tosin-damilare-james-animashaun'),)
+	('quora',
+		'http://quora.com/Tosin-Damilare-James-Animashaun'),
+	('github',
+		'http://github.com/takwas'),
+	('linkedin',
+		'http://ng.linkedin.com/in/acetakwas'),
+	('bitbucket',
+		'http://bitbucket.org/takwas'),
+	('goodreads',
+		'http://goodreads.com/user/show/41177369-tosin-damilare-james-animashaun'),
+	)
           
           #('Facebook', 'http://facebook.com/takwas')
           #('Twitter', 'http://twitter.com/acetakwas'),

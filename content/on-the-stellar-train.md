@@ -1,6 +1,6 @@
 Title: On the Stellar Train!
 Date: 2016-01-31 19:00
-Modified: 2016-01-31 19:00
+Modified: 2016-01-31 21:00
 Tags: stellar, altcoin, crytocurrency, open-source, project, planet
 Slug: on-the-stellar-train
 Summary: The Stellar project is huge and beginner-friendly. Here is me getting into open source in a big way.
@@ -8,9 +8,9 @@ Summary: The Stellar project is huge and beginner-friendly. Here is me getting i
 
 
 
-Two days ago, I attended Stellar.org's fireside chat at the [Idea Hub]() in Lagos. It was an enlightening event; one that may well be my gateway into the world of open source in the year.
+Two days ago, I attended Stellar.org's fireside chat at [Idea Hub]() in Lagos. It was an enlightening event; one that may well be my gateway into the world of open source in the year.
 
-No doubt this will present a somewhat steep learning curve knowing that my background in finance (and FinTech) is not much to write home about. The experience and payoffs will of course be worth the while and I am expecting more developers to join the train as the platform is still very welcoming at this point.
+No doubt this will present a somewhat steep learning curve knowing that my background in finance (and [FinTech](https://en.wikipedia.org/wiki/Financial_technology)) is not much to write home about. The experience and payoffs will of course be worth the while and I am expecting more developers to join the train as the platform is still very welcoming at this point.
 
 Stellar is a fairly new financial technology service that aims to be the de facto way in which we move money around.
 
