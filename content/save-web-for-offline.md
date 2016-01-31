@@ -1,6 +1,6 @@
 Title: wGetting Them All!
 Date: 2016-01-28 17:00
-Modified: 2016-01-28 17:00
+Modified: 2016-01-29 22:00
 Tags: wget, httrack, download, offline, save, website, internet, planet
 Slug: save-web-for-offline
 Summary: You can save the entire contents of a website or blog for offline referencing.
@@ -25,7 +25,7 @@ I also use this approach to download documentations for offline reference, since
 
 The most current version of HTTrack supports resumption of broken downloads. This is also built into wget, which is an old Linux tool.
 
-One issue I have observed with the latter, however, is that it doesn't seem to get the CSS style files accordingly; therefore, you may have aesthetic issues with it. This wasn't a problem I have had with HTTrack.
+One issue I have observed with the latter, however, is that it doesn't seem to get the CSS style files accordingly; therefore, you may have aesthetic issues with it. I have not had this problem with HTTrack.
 
 HTTrack is multiplatform supported. There are versions for Android, Windows, and Linux, [downloadable here](http://www.httrack.com/page/2/)
 
