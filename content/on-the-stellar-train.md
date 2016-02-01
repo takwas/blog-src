@@ -1,6 +1,6 @@
 Title: On the Stellar Train!
 Date: 2016-01-31 19:00
-Modified: 2016-01-31 21:00
+Modified: 2016-02-01 11:00
 Tags: stellar, altcoin, crytocurrency, open-source, project, planet
 Slug: on-the-stellar-train
 Summary: The Stellar project is huge and beginner-friendly. Here is me getting into open source in a big way.
