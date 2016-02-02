@@ -9,11 +9,12 @@ Summary: Communities drive growth. Ubuntu Africa is for all Linux and Ubuntu use
 
 
 
-####For starters, the meeting's raw logs are available [here](http://52.17.74.45/freenode-%23ubuntu-africa/2016-01-27-18-31-20.html).
+####This post is about the [Ubuntu Africa community's](http://ubuntu-africa.info/) meeting that held in their [IRC channel](http://ubuntu-africa.info/chat-with-us.html) on _Wednesday the 26th of January, 2016_. You could read the raw logs of the meeting [here](http://52.17.74.45/freenode-%23ubuntu-africa/2016-01-27-18-31-20.html), but my guess is that reading logs like that might not be the most enjoyable task for your eyes. So I have tried to make this blog post a more pleasant-for-the-eyes version of it. :)
 
-Because I know that reading logs like that might not be the most enjoyable task for your eyes, I have tried to make this blog post a more pleasant-for-the-eyes version of it. :)
+- - -
 
-The [Ubuntu Africa user community](http://ubuntu-africa.info/) had a meeting on IRC on Wednesday, 26 January 2013 -- a meeting of Linux and Ubuntu users in Africa. It's a call for more African "nuxers"<sup>__[1]__</sup> to join in growing the community.
+<br/>
+[Ubuntu Africa](http://ubuntu-africa.info/) is a community of Ubuntu (and Linux) users within the shores of the African continent. There are several local communities (_LoCos_) specific to countries, but this group is limited only to the continent. It aims to bring together these LoCos.
 
 We believe that coming together to work together will bring about a more rapid growth. Owing to our disparate skills individually, we need communities like this that will present us with people who are skilled in the areas that we are lacking.
 
@@ -30,7 +31,7 @@ Attendees at the meeting came from different African nations including Cameroon 
 The primary language used during discussion was English. However, Kilos pointed out that if any user struggled with the English language, they could use their own language (most likely French) in the hope that someone would translate for them.
 
 <br/>
-The [#ubuntu-africa](irc://freenode.net/ubuntu-africa) channel has a bot called __QA__ that logs meetings and does a few other tasks. At the beginning of meetings attending users are expected to introduce themselves using the format:
+The [#ubuntu-africa](http://ubuntu-africa.info/chat-with-us.html) IRC channel has a bot called __QA__ that logs meetings and does a few other tasks. At the beginning of meetings attending users are expected to introduce themselves using the format:
 
     QA: I am [first name] [last name] - [country]
 
@@ -38,18 +39,22 @@ OR
 
     QA: I am [first name] [last name] from [country]
 
-When a user does this correctly, the bot would respond to the user confirming receipt of the information. This is doable anytime during the meeting. So if a user comes in late, that's the first thing he'd be expected to do.
+When a user does this correctly, the bot would respond to the user confirming receipt of the information. This is doable anytime during the meeting. So if a user comes in late, that's the first thing they'd be expected to do.
 
 I have noticed that the bot performs no parsing whatsoever on this given data and just logs it as is. Therefore, it's in a user's best interest to adhere (strictly) to the format given above.
 
 <br/>
-Before the meeting, there had been an [agenda page](https://wiki.ubuntu.com/AfricanTeams/Meetings/20160127) -- I believe this was open for suggestions on the [mailing list](https://launchpad.net/~ubuntu-africa) -- for the issues to be discussed at the meeting. And this was strictly followed during the meeting.
+Before the meeting, there had been an [agenda page](https://wiki.ubuntu.com/AfricanTeams/Meetings/20160127) -- I believe this was open for suggestions on the [mailing list](https://launchpad.net/~ubuntu-africa) -- iterating the issues to be discussed at the meeting. And this was strictly followed during the meeting.
 
 <br/>
 
-#####The following is my excerpt from the meeting:
+####Meeting Excerpts
 
-The Ubuntu Africa community is currently an unofficial group. It would need more activity to gain the official recognition. Therefore, we have a mandate to try and convince users from all local Linux User Groups to join the Ubuntu Africa community whilst still being active in their respective communities, as this community is country agnostic and aims to bring us all under one umbrella.
+<s>The Ubuntu Africa community is currently an unofficial group. It would need more activity to gain the official recognition.</s>
+
+Firstly, it is important to note that all members have a mandate to try and convince users from African Linux local communities/user-groups to join the Ubuntu Africa community whilst still being active in their respective communities, as this community is country-agnostic and aims to bring us all under one umbrella.
+
+The meeting had a number of first-timers (myself included) in attendance. The new members were recognised. And we learnt of the [Ubuntu local community in Cameroon](https://wiki.ubuntu.com/CameroonianTeam/NewMembers/en) and their [mailing list](https://lists.ubuntu.com/mailman/listinfo/ubuntu-cm).
 
 Users were encouraged to get word out about the fledgling community through their social hangouts (Facebook, Twitter and the rest...). More suggestions came in on how to  get the publicizing done. Users suggested YouTube videos, Twitter posts ([#ubuntu-africa](https://twitter.com/hashtag/ubuntuAfrica?src=hash)) and blog posts (like the one you are reading now).
 
@@ -61,13 +66,13 @@ The chair of the meeting raised a point about making some improvements to the [c
 
 @superfly revealed that the current site was implemented using the static blog generator, _Nikola_, meaning it already comes with a blogging feature, although it hadn't yet been activated, since no one had been available to blog on the site. @Na3iL offered to help with the blogging, and in the end it was agreed that the task would be handled collaboratively by @superfly (technically) and @Na3iL (literarily).
 
-Stephen Mawutor Donkor from Ghana (@mawutor) made one final suggestion in this regard about getting involved in Ubuntu-Lab projects for schools as a way to gain some media attention.. His suggestion was commended.
+Stephen Mawutor Donkor from Ghana (@mawutor) made one final suggestion in this regard about getting involved in Ubuntu-Lab projects for schools as a way to gain some media attention.. Their suggestion was commended.
 
 <br/>
 
-Now to something more technical. Another memeber of the group Cameroonian member @ongolaBoy talked about the issues surrounding approval of our mirror. He stated that the status of submission had gone from "pending" to "Unofficial", which is a good thing.
+Now to something more technical. Another memeber of the group Cameroonian member @ongolaBoy talked about the issues surrounding approval of our mirror. He stated that the status of submission had gone from "pending" to "unofficial", which is a good thing.
 
-He shared the URL to the Launchpad page of the mirror: https://launchpad.net/ubuntu/+mirror/miroir.cm.auf.org-archive
+They shared the URL to the Launchpad page of the mirror: https://launchpad.net/ubuntu/+mirror/miroir.cm.auf.org-archive
 
 Everyone was impressed with this news.
 
@@ -87,12 +92,12 @@ At this juncture, things were beginning to wound up as the chairperson of the me
 
 The final motion for the day was for the selection of a date for the next meeting. Someone suggested that this be treated in the [mailing list](https://launchpad.net/~ubuntu-africa) as a way to get people to use the list. Thus, everyone agreed that the date for next meeting be decided in there.
 
-I think the name of the user who came in at this time deserves a mention. It was @d3r1ck -- we didn't get his full identity.
+I think the name of the user who came in at this time deserves a mention. It was @d3r1ck -- we didn't get their full identity.
 
 
 <br/>
 __ __
 
-#####[1]  I like the sound of the word "nuxers". :) It's a play on the phrase "Linux users".
+#####[1] The word "nuxers" is a portmanteau of the words "Linux" and "users".
 
 #####[2] The nicks don't need the preceeding '@'. It's used here for emphasis.
