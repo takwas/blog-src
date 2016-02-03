@@ -58,7 +58,7 @@ The meeting had a number of first-timers (myself included) in attendance. The ne
 
 Users were encouraged to get word out about the fledgling community through their social hangouts (Facebook, Twitter and the rest...). More suggestions came in on how to  get the publicizing done. Users suggested YouTube videos, Twitter posts ([#ubuntu-africa](https://twitter.com/hashtag/ubuntuAfrica?src=hash)) and blog posts (like the one you are reading now).
 
-The agreement was that Pieter Engelbrecht (@chesedo) from South Africa would put up the blog post. And just in case you want to help get the word out too, here's the link to share: http://ubuntu-africa.info
+The agreement was that Pieter Engelbrecht (@chesedo) from South Africa would <s>put up the blog post.</s> create a tweet about the community using the hashtag ["#ubuntu-africa"](https://twitter.com/hashtag/ubuntuAfrica?src=hash). And just in case you want to help get the word out too, here's the link to share: http://ubuntu-africa.info
 
 <br/>
 
