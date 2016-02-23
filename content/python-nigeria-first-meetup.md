@@ -10,6 +10,9 @@ Summary: Pythonistas in Nigeria came together to discuss the growth of the Pytho
 
 The members of the [Python-Nigeria mailing list](https://mail.python.org/mailman/listinfo/python-nigeria) got together for a maiden edition of meetups geared towards growing the Python community in Nigeria. The meeting had about thirty people in attendance.
 
+<center><a href="http://imgur.com/Co6BPKC"><img src="http://i.imgur.com/Co6BPKCl.jpg?1" title="source: imgur.com" /></a></center>
+
+<br/>
 Prior to the meeting, a few members had discussed the purpose and agenda for the meeting in the mailing list.
 
 The mailing list hasn't exactly been interactive as most members often resought to reading the digests without responding. This was one of the issues the meeting sought to address: to encourage members to participate more actively.
@@ -26,27 +29,35 @@ She also pointed out that there haven't been many PyCons in Africa; the only one
 There was a consensus, it was just as Aisha had suggested. A committee (made up of volunteers) was then setup to begin planning towards the event.
 
 
-<br>
+<br/>
 Several members had the opportunity to address the audience during the meeting which lasted for over an hour. Notable among those who spoke was [Chukwudi](https://dl.dropboxusercontent.com/u/206213543/iChux.html), a very experienced Python programmer. In his words, _"I have been coding in Python everyday since 2004, except when I was sick and couldn't do anything."_
 
+<center><a href="http://imgur.com/TO2IbXE"><img src="http://i.imgur.com/TO2IbXEl.jpg" title="source: imgur.com" /></a></center>
+
+<br/>
 In his 12 years of Python programming, Chuks as he's fondly called, has co-reviewed a Python book and has worked in Ibadan for about 10 years. He now resides in Lagos with his family. He talked about some of the projects he's worked on, including a robot that would stealthily index all **".ng"** domains. He expressed his delight at finally getting to meet and possibly work with others in this Python space. He closed his speech saying,
+
+<br/>
 
 >"Python is something I code and breathe. It's a lovely language. You are welcome."
 
-<br>
+<br/>
 One short presentation I particularly enjoyed was that of Dipo Odumosu about his work for the [National Population Commission](http://www.population.gov.ng/) in collaboration with [UNICEF](http://www.unicef.org/). They have an [application](http://br.rapidsmsnigeria.org/) that is used to track birth statistics in all local governments in the country. He described it as a conceptually simple app, but one that sort of has a bit of everything: built with [Django](https://www.djangoproject.com/) and [RapidSMS](https://www.rapidsms.org/); a little scientific and a little regular [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete); and aggregation is done using [Pandas](http://pandas.pydata.org/).
 
 He also spoke about their recurrent challenge with number crunching on large cumulative data, welcoming suggestions from the audience as to tackling the issue. As we were constrained by time, discussion on the issue will continue in the [mailing list](https://mail.python.org/mailman/listinfo/python-nigeria) or the newly setup [Slack community](https://pythonnigeria.slack.com/).
 
-<br>
+<br/>
 First year student at OAU Ife, Lekan Wahab, who has been coding since secondary school stepped up to share his campus experience with the house. Explaining how his admission into the university was met with the disappointment of a non-existent programmer community, and how that inspired him to setup one by introducing his colleagues to the Python programming language,
+
+<br/>
 
 > "Before I got to school, I had this idea that I was going to meet quite a lot of programmers on campus, but I was very disappointed. The only other programmer in my class was a Java coder, and he said when he got to _'if'_, the stuff got really hard and he just dropped it; he said he wasn't interested in it anymore. Then I took it upon myself to start a club; I started Python Club."
 
+<br/>
 Personally, not only did I find this impressive, but it was even more exciting to learn of the amazing projects Lekan's group had been able to work on; projects including a home automation system built with the [Raspberry Pi](https://www.raspberrypi.org/), [Arduino](https://www.arduino.cc/) amd mobile devices, a payment/airtime recharge service and a search engine.
 
 
-<br>
+<br/>
 One of the items on the agenda for the evening was to come up with an idea for an open source application that the group would collaboratively work on. Olabayo welcomed interesting ideas from the audience, and these two came up:
 
 1. [Peter Ayeni](https://twitter.com/peterayeni_), founder of [GigCabal](http://www.gigcabal.com/), who came all the way from Abuja suggested that we work on a site analytics/ratings service for Nigerian websites. He likened this with existing platforms like [Alexa](http://www.alexa.com/) and [Webalizer](http://www.webalizer.org/).
