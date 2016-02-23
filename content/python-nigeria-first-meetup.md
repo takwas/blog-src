@@ -1,6 +1,6 @@
-Title: The First Python Nigerian Meetup
+Title: The First Python-Nigeria Meetup
 Date: 2016-02-23 13:40
-Modified: 2016-02-23 13:40
+Modified: 2016-02-23 16:10
 Tags: meetup, python, python nigeria, mailing list, nigeria, pycon, meeting, slack, planet
 Slug: python-nigeria-first-meetup
 Summary: Pythonistas in Nigeria came together to discuss the growth of the Python community in Nigeria.
@@ -8,13 +8,13 @@ Summary: Pythonistas in Nigeria came together to discuss the growth of the Pytho
 
 
 
-The members of the [Python Nigerian mailing list](https://mail.python.org/mailman/listinfo/python-nigeria) got together for a maiden edition of meetups geared towards growing the Python community in Nigeria. The meeting had about thirty people in attendance.
+The members of the [Python-Nigeria mailing list](https://mail.python.org/mailman/listinfo/python-nigeria) got together for a maiden edition of meetups geared towards growing the Python community in Nigeria. The meeting had about thirty people in attendance.
 
 Prior to the meeting, a few members had discussed the purpose and agenda for the meeting in the mailing list.
 
 The mailing list hasn't exactly been interactive as most members often resought to reading the digests without responding. This was one of the issues the meeting sought to address: to encourage members to participate more actively.
 
-The meeting was conducted by [Olabayo Onile-Ere](https://twitter.com/olabayo96) the moderator of the mailing list. Olabayo is the founder of [Hotels &amp; Perks](https://www.hotelsnperks.com/).
+The meeting was conducted by [Olabayo Onile-Ere](https://twitter.com/olabayo96) the moderator of the mailing list. Olabayo is the co-founder of [Hotels &amp; Perks](https://www.hotelsnperks.com/).
 
 Olabayo welcomed attendees and explained that the goal was for this group to become the driving force for the emerging Python community in Nigeria. He highlighted the need for more people to join the community, and brought up the topic of organizing a Python conference in Nigeria.
 
