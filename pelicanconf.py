@@ -12,20 +12,32 @@ SITE_TAGLINE = DESCRIPTION
 SITE_SOURCE = u'https://github.com/takwas/blog-src'
 
 AUTHOR = u'Tosin Damilare James Animashaun'
+
+# custom config variable for URLS
+URLS = {
+	'krohx' : ('http://krohx.github.io', 'this startup'),
+	'niit' : ('http://www.niitlagos.com/about.html', 'NIIT'),
+	}
+
+# helper function to format URLs for BIO
+def get_link(name):
+	return '<a href="{url}">{url_title}</a>'.format(url=URLS.get(name, '')[0], url_title=URLS.get(name, '')[1])
+
 BIO = \
 	u'''
-		<p>Full name: <strong>{0}</strong>.</p>
+		<p>Full name: <strong>{name}</strong>.</p>
 		
 		<p>In here is where I document stuff as I go. Among a host of other
-		personas, I am a Christian, programmer, and budding entrepreneur. I'm going to school too. I am currently doing a Software Engineering program at <a href="http://www.niitlagos.com/about.html">NIIT, Nigeria.</a></p>
+		personas, I am a Christian, programmer, and budding entrepreneur. I am a part of {krohx}, and I am currently doing a Software Engineering program at {niit}.</p>
 
 		<p>I enjoy reading. I appreciate writing; and I try to be good at this myself. Some other interests include singing, technology, and psychology.</p>
 
 		<p>In my spare time, I listen to podcasts about different topics ranging from startups to technology, innovations, psychology and more.</p>
-	'''.format(AUTHOR)
+	'''.format(name=AUTHOR, krohx=get_link('krohx'), niit=get_link('niit'))
 
 
-AUTHOR_SHORTBIO = u'Christian, Programmer, budding Entrepreneur, Quoran'
+
+AUTHOR_SHORTBIO = u'Christian | Programmer | Learner'
 AUTHOR_EMAIL = u'acetakwas@gmail.com'
 AUTHOR_EMAIL_HASH = md5(AUTHOR_EMAIL).hexdigest()
 TWITTER_USERNAME = u'acetakwas'

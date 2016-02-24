@@ -1,6 +1,6 @@
 Title: The First Python-Nigeria Meetup
 Date: 2016-02-23 13:40
-Modified: 2016-02-23 16:10
+Modified: 2016-02-24 16:00
 Tags: meetup, python, python nigeria, mailing list, nigeria, pycon, meeting, slack, planet
 Slug: python-nigeria-first-meetup
 Summary: Pythonistas in Nigeria came together to discuss the growth of the Python community in Nigeria.
@@ -10,7 +10,7 @@ Summary: Pythonistas in Nigeria came together to discuss the growth of the Pytho
 
 The members of the [Python-Nigeria mailing list](https://mail.python.org/mailman/listinfo/python-nigeria) got together for a maiden edition of meetups geared towards growing the Python community in Nigeria. The meeting had about thirty people in attendance.
 
-<center><a href="http://imgur.com/Co6BPKC"><img src="http://i.imgur.com/Co6BPKCl.jpg?1" title="source: imgur.com" /></a></center>
+<center><a href="http://imgur.com/Co6BPKC"><img src="http://i.imgur.com/Co6BPKCl.jpg?1" title="Python-Nigeria Meetup: Olabayo conducting the meeting" /></a></center>
 
 <br/>
 Prior to the meeting, a few members had discussed the purpose and agenda for the meeting in the mailing list.
@@ -32,7 +32,7 @@ There was a consensus, it was just as Aisha had suggested. A committee (made up 
 <br/>
 Several members had the opportunity to address the audience during the meeting which lasted for over an hour. Notable among those who spoke was [Chukwudi](https://dl.dropboxusercontent.com/u/206213543/iChux.html), a very experienced Python programmer. In his words, _"I have been coding in Python everyday since 2004, except when I was sick and couldn't do anything."_
 
-<center><a href="http://imgur.com/TO2IbXE"><img src="http://i.imgur.com/TO2IbXEl.jpg" title="source: imgur.com" /></a></center>
+<center><a href="http://imgur.com/TO2IbXE"><img src="http://i.imgur.com/TO2IbXEl.jpg" title="Python-Nigeria Meetup: Chukwudi addressing the audience" /></a></center>
 
 <br/>
 In his 12 years of Python programming, Chuks as he's fondly called, has co-reviewed a Python book and has worked in Ibadan for about 10 years. He now resides in Lagos with his family. He talked about some of the projects he's worked on, including a robot that would stealthily index all **".ng"** domains. He expressed his delight at finally getting to meet and possibly work with others in this Python space. He closed his speech saying,

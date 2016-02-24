@@ -47,6 +47,8 @@
     <a href="{{ link }}" >
       {% if icon %}
         <i class="fa {{ 'fa-%s' % icon[0] }}" ></i>
+      {% elif domain == 'ng.linkedin.com' %}
+        <img src="{{ SITEURL }}/theme/img/icon_linkedin.png" width="16" height="16" class="icon" alt="{{ domain }} icon"/>
       {% elif not icon and domain and grabicon %}
         <img src="http://grabicon.com/icon?domain={{ domain }}&size=16" width="16" height="16" class="icon" alt="{{ domain }} icon"/>
       {% endif %}

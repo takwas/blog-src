@@ -1,7 +1,7 @@
 Title: Ubuntu Africa Calls
 Date: 2016-02-01 05:00
 Modified: 2016-02-03 14:10
-Tags: irc, ubuntu, africa, ubuntu-africa, meeting, project, planet
+Tags: irc, ubuntu, africa, ubuntu africa, meeting, project, planet
 Slug: ubuntu-africa-calls
 Summary: Communities drive growth. Ubuntu Africa is for all Linux and Ubuntu users in Africa.
 
