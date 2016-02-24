@@ -64,7 +64,7 @@ One of the items on the agenda for the evening was to come up with an idea for a
 
 2. [Olamilekan Adeniji](https://twitter.com/Olamilec), creator of [mErgencyNG](https://vc4a.com/ventures/mergency/), explained the idea behind his product and suggested that we work on it collectively. The app will provide a platform for citizens to report crime/suspicions to appropriate agencies or radio corporations.
 
-A poll was conducted, and the house voted in favor of eMergencyNG. It was at this point that Chuks once again spoke and offered to open-source a library he had developed for analysing errors, in an effort to spark some creativity among the Pythonists.
+A poll was conducted, and the house voted in favor of mErgencyNG. It was at this point that Chuks once again spoke and offered to open-source a library he had developed for analysing errors, in an effort to spark some creativity among the Pythonists.
 
 <br/>
 To encourage members even further, Olabayo read out a recent [email](https://mail.python.org/pipermail/python-nigeria/2016-February/000068.html) from [Naomi Ceder](https://twitter.com/naomiceder), the lady who had been moderating the mailing list, until just before the meeting when she passed this duty on to him.
