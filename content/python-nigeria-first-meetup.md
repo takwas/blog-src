@@ -1,6 +1,6 @@
 Title: The First Python-Nigeria Meetup
 Date: 2016-02-23 13:40
-Modified: 2016-02-24 16:00
+Modified: 2016-02-26 12:00
 Tags: meetup, python, python nigeria, mailing list, nigeria, pycon, meeting, slack, planet
 Slug: python-nigeria-first-meetup
 Summary: Pythonistas in Nigeria came together to discuss the growth of the Python community in Nigeria.
