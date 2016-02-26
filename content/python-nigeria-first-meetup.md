@@ -26,7 +26,7 @@ Organizer of [Django Girls Lagos](https://twitter.com/DjangoGirlsLAG) and [Djang
 She also pointed out that there haven't been many PyCons in Africa; the only ones having held in South Africa and Namibia. It was interesting to know that Nigerias' would be the first in West Africa.
 
 
-There was a consensus, it was just as Aisha had suggested. A committee (made up of volunteers) was then setup to begin planning towards the event.
+There was a consensus; it was just as Aisha had suggested. A committee (made up of volunteers) was then setup to begin planning towards the event.
 
 
 <br/>
@@ -47,17 +47,19 @@ One short presentation I particularly enjoyed was that of Dipo Odumosu about his
 He also spoke about their recurrent challenge with number crunching on large cumulative data, welcoming suggestions from the audience as to tackling the issue. As we were constrained by time, discussion on the issue will continue in the [mailing list](https://mail.python.org/mailman/listinfo/python-nigeria) or the newly setup [Slack community](https://pythonnigeria.slack.com/).
 
 <br/>
-First year student at OAU Ife, Lekan Wahab, who has been coding since secondary school stepped up to share his campus experience with the house. Explaining how his admission into the university was met with the disappointment of a non-existent programmer community, and how that inspired him to setup one by introducing his colleagues to the Python programming language,
+First year student at [OAU Ife](http://www.oauife.edu.ng/), [Lekan Wahab](https://twitter.com/Olamyy_Fadil), who has been coding since secondary school stepped up to share his campus experience with the house. Explaining how his admission into the university was met with the disappointment of a non-existent programmer community, and how that inspired him to setup one by introducing his colleagues to the Python programming language,
 
 <br/>
 
-> "Before I got to school, I had this idea that I was going to meet quite a lot of programmers on campus, but I was very disappointed. The only other programmer in my class was a Java coder, and he said when he got to _'if'_, the stuff got really hard and he just dropped it; he said he wasn't interested in it anymore. Then I took it upon myself to start a club; I started Python Club."
+> "Before I got to school, I had this idea that I was going to meet quite a lot of programmers on campus, but I was very disappointed. The only other programmer in my class was a Java coder, and he said when he got to _'if'_, the stuff got really hard and he just dropped it; he said he wasn't interested in it anymore. Then I took it upon myself to start a club; I started Python Club in OAU."
 
 <br/>
 Personally, not only did I find this impressive, but it was even more exciting to learn of the amazing projects Lekan's group had been able to work on; projects including a home automation system built with the [Raspberry Pi](https://www.raspberrypi.org/), [Arduino](https://www.arduino.cc/) amd mobile devices, a payment/airtime recharge service and a search engine.
 
+Speaking further, Lekan used the medium to solicit support towards a forthcoming [Django Girls](https://djangogirls.org/) workshop organised by his club. The workshop is slated for April at Obafemi Awolowo University, Ile-Ife. **Volunteer mentors/coaches are needed for the workshop.** Kindly [visit this link](https://djangogirls.org/oau/) to learn more about the event.
 
 <br/>
+
 One of the items on the agenda for the evening was to come up with an idea for an open source application that the group would collaboratively work on. Olabayo welcomed interesting ideas from the audience, and these two came up:
 
 1. [Peter Ayeni](https://twitter.com/peterayeni_), founder of [GigCabal](http://www.gigcabal.com/), who came all the way from Abuja suggested that we work on a site analytics/ratings service for Nigerian websites. He likened this with existing platforms like [Alexa](http://www.alexa.com/) and [Webalizer](http://www.webalizer.org/).
@@ -69,6 +71,18 @@ A poll was conducted, and the house voted in favor of mErgencyNG. It was at this
 <br/>
 To encourage members even further, Olabayo read out a recent [email](https://mail.python.org/pipermail/python-nigeria/2016-February/000068.html) from [Naomi Ceder](https://twitter.com/naomiceder), the lady who had been moderating the mailing list, until just before the meeting when she passed this duty on to him.
 
-Afterwards, Olabayo designated the task of setting up a Slack community for the group to [Eyitemi Gbejule](https://twitter.com/eEyitemi), which he promptly did. The community is now active at [pythonnigeria.slack.com](http://pythonnigeria.slack.com) 
+Afterwards, Olabayo designated the task of setting up a Slack community for the group to [Eyitemi Gbejule](https://twitter.com/eEyitemi), which he promptly did. The community is now active at [pythonnigeria.slack.com](http://pythonnigeria.slack.com).
 
 This was it. Thanks were in order (especially to [CcHub](http://cchubnigeria.com/) and organizers of Django Girls Lagos). The meeting was over.
+
+<br />
+
+<hr />
+
+**You can join the [Python-Nigeria Slack community](http://pythonnigeria.slack.com) by subscribing to the [mailing list](https://mail.python.org/mailman/listinfo/python-nigeria) at:**
+
+    https://mail.python.org/mailman/listinfo/python-nigeria
+
+**and sending an email requesting an invite to:**
+    
+    python-nigeria@python.org

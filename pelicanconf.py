@@ -28,11 +28,16 @@ BIO = \
 		<p>Full name: <strong>{name}</strong>.</p>
 		
 		<p>In here is where I document stuff as I go. Among a host of other
-		personas, I am a Christian, programmer, and budding entrepreneur. I am a part of {krohx}, and I am currently doing a Software Engineering program at {niit}.</p>
+		personas, I am a Christian, programmer, and budding entrepreneur. I am a part of {krohx}, and I am currently doing a Software Engineering program at {niit}.
+		</p>
 
-		<p>I enjoy reading. I appreciate writing; and I try to be good at this myself. Some other interests include singing, technology, and psychology.</p>
+		<p>I enjoy reading. I appreciate writing; and I try to be good at this myself. Some other interests include singing, technology, and psychology.
+		</p>
 
-		<p>In my spare time, I listen to podcasts about different topics ranging from startups to technology, innovations, psychology and more.</p>
+		<p>In my spare time, I listen to podcasts about different topics ranging from startups to technology, innovations, psychology and more.
+		<br/>
+		<br/><b>Email: </b> acetakwas [at] gmail [dot] com
+		</p>
 	'''.format(name=AUTHOR, krohx=get_link('krohx'), niit=get_link('niit'))
 
 
