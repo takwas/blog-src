@@ -1,6 +1,6 @@
 Title: After DjangoGirls, What Next?
 Date: 2016-04-16 12:50
-Modified: 2016-04-16 12:50
+Modified: 2016-04-16 12:55
 Tags: python, django, django-girls, lagos, python nigeria, mailing list, nigeria, workshop, planet
 Slug: what-follows-django-girls
 Summary: Post-workshop messsage to attendees of DjangoGirls workshop.
@@ -15,7 +15,7 @@ My recent foray into the social circle of techies has proven to me that growth i
 
 The organizer of DjangoGirls Lagos, [Aisha Bello](https://twitter.com/aishaxbello) herself only attended this event for the first time about a year ago. Isn't it wonderful that she's been able to put up two of such events within this period? Even though not everyone of you might be able to replicate what she has done, I encourage the few ones among you who can, to endeavour to.
 
-Also endeavour to join communities; create them if they don't exist. For starters, the Nigeria Python Users Group has a mailing list where you can get updates on the Python community in Nigeria as well as a Slack community where you can interact with other programmers.
+Also endeavour to join communities; create them if they don't exist. For starters, the Nigeria Python Users Group has a [mailing list]((https://mail.python.org/mailman/listinfo/python-nigeria)) where you can get updates on the Python community in Nigeria as well as a [Slack community](http://pythonnigeria.slack.com) where you can interact with other programmers.
 
 <br/>
 Did you get the contacts of your mentors? If you didn't, head over to the [DjangoGirls Lagos page](https://djangogirls.org/lagos/#coach) and get their Twitter handles. Bug them! Well, don't annoy them, but do not hesitate to ask them questions when you're stuck. They'd be glad to help, I'm sure.
