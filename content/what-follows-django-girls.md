@@ -32,7 +32,7 @@ So get creative; I assure you you've gotten past the first and most basic hurdle
 But you'd need to be prepared to learn new stuff as you go. Don't let that put you off as those things would be equally exciting. And you don't have to know it all before you begin; you can learn on-the-job.
 
 <br/>
-Speaking of what you learnt at the workshop, I'm sure you know you were merely introduced to the technologies, not taught comprehensively. In my opinion, you may need to go over the whole tutorial again; then try to build something different (like a ToDo application) from the example shown. Afterwards, for some more comprehensive Python tutorial that is hands-on, try [codecademy](https://www.codecademy.com/learn/python). It'll be fun, trust me.
+Speaking of what you learnt at the workshop, I'm sure you know you were merely introduced to the technologies, not taught comprehensively. In my opinion, you may need to go over [the whole tutorial](http://tutorial.djangogirls.org/en/) again; then try to build something different (like a ToDo application) from the example shown. Afterwards, for some more comprehensive Python tutorial that is hands-on, try [codecademy](https://www.codecademy.com/learn/python). It'll be fun, trust me.
 
 There are several tutorials available on web platforms Youtube, Edx, Coursera, and Udacity among others. Who knows, you could build the next _e-school_ for Africa. Pick any of these courses, and try to follow along. You don't have to be in a hurry, although you may find yourself skipping stuff you have already learnt.
 
