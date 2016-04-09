@@ -1,9 +1,9 @@
 Title: After DjangoGirls, What Next?
-Date: 2016-04-16 12:50
-Modified: 2016-04-16 13:55
+Date: 2016-04-08 12:50
+Modified: 2016-04-09 15:10
 Tags: python, django, django-girls, lagos, python nigeria, mailing list, nigeria, workshop, planet
 Slug: what-follows-django-girls
-Summary: Post-workshop messsage to attendees of DjangoGirls workshop.
+Summary: Post-workshop messsage to participants at a DjangoGirls workshop.
 
 
 
@@ -23,18 +23,18 @@ Did you get the contacts of your mentors? If you didn't, head over to the [Djang
 And really, the learning goes both ways. Post-workshop, one of the participants of the workshop showed me an error she had encountered, and I was glad to learn that by tinkering with it, she found her way out of the maze. But that's not all. From seeing her approach, **I picked up new knowledge from it too**.
 
 <br/>
-This post is meant to give you a quasi-roadmap of some sort, which you don't have to follow religiously but keep close enough to consult when you're lost.
+This post is meant to give you a quasi-roadmap, which you don't have to follow religiously but keep close enough to consult when you're lost.
 
-So you learnt Python alongside one of its most popular frameworks: [Django](https://www.djangoproject.com/); and now you can code the next Facebook (Oh, were you told you could only build blogs with that new super power you picked up?) Now, I think the world has more blogging apps than we can keep track of, don't you think so?
+So you learnt Python alongside its arguably most popular web-development framework: [Django](https://www.djangoproject.com/); and now you can code the next Facebook (Oh, were you told you could only build blogs with that new super power you picked up?) Now, I think the world has more blogging apps than we can keep track of, don't you think so?
 
 So get creative; I assure you you've gotten past the first and most basic hurdle to creating just about any kind of web app: a social network or an e-commerce platform or something else that's interesting. Think of how important this is in an age when everything is moving to the web. You've definitely gotten a head start!
 
 But you'd need to be prepared to learn new stuff as you go. Don't let that put you off as those things would be equally exciting. And you don't have to know it all before you begin; you can learn on-the-job.
 
 <br/>
-Speaking of what you learnt at the workshop, I'm sure you know you were merely introduced to the technologies, not taught comprehensively. In my opinion, you may need to go over [the whole tutorial](http://tutorial.djangogirls.org/en/) again; then try to build something different (like a ToDo application) from the example shown. Afterwards, for some more comprehensive Python tutorial that is hands-on, try [codecademy](https://www.codecademy.com/learn/python). It'll be fun, trust me.
+Speaking of what you learnt at the workshop, I'm sure you know you were merely introduced to the technologies, not taught comprehensively. In my opinion, you may need to go over [the whole tutorial](http://tutorial.djangogirls.org/en/) again; then try to build something different -- like [a ToDo application](http://code.tutsplus.com/articles/intro-to-django-building-a-to-do-list--net-2871) -- from the example shown. Afterwards, for some more comprehensive Python tutorial that is hands-on, try [codecademy](https://www.codecademy.com/learn/python). It'll be fun, trust me.
 
-There are several tutorials available on web platforms Youtube, Edx, Coursera, and Udacity among others. Who knows, you could build the next _e-school_ for Africa. Pick any of these courses, and try to follow along. You don't have to be in a hurry, although you may find yourself skipping stuff you have already learnt.
+There are several tutorials available as [MOOCs](https://www.mooc-list.com/) or video tutorials on web platforms like [Youtube](https://www.youtube.com/), [Edx](https://www.edx.org/), [Udemy](https://www.udemy.com/), [Coursera](https://www.coursera.org/), and [Udacity](https://www.udacity.com/) among others. Who knows, you could build the next _e-school_ for Africa. Pick any of these courses, and try to follow along. You don't have to be in a hurry, although you may find yourself skipping stuff you have already learnt.
 
 I'll advise you [pick up some Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) as you go. I assure you that a mix of skills in these two languages will empower you so well.
 
@@ -59,7 +59,7 @@ How much time it'd take to become quite comfortable with all of this would depen
 
 1. Your interest
 2. Your consistency
-3. Your learning speed
+3. Your learning aptitude
 
 However, I'd say [6 months should be fine](http://www.codeconquest.com/programmer-6-months/). Within this time you would have learnt enough to kick-start an exciting project. In fact, some people might have gotten halfway with some project in this time.
 
