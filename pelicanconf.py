@@ -5,46 +5,65 @@ from __future__ import unicode_literals
 from hashlib import md5
 
 
-
 SITENAME = u'acetakwas.log();'
-DESCRIPTION = u"while True: print    <strong>\\</strong>"
+DESCRIPTION = r"while True: print    <strong>\</strong>"
 SITE_TAGLINE = DESCRIPTION
 SITE_SOURCE = u'https://github.com/takwas/blog-src'
 
 AUTHOR = u'Tosin Damilare James Animashaun'
 
-# custom config variable for URLS
-URLS = {
-	'krohx' : ('http://krohx.github.io', 'this startup'),
-	'niit' : ('http://www.niitlagos.com/about.html', 'NIIT'),
-	}
 
 # helper function to format URLs for BIO
 def get_link(name):
-	return '<a href="{url}">{url_title}</a>'.format(url=URLS.get(name, '')[0], url_title=URLS.get(name, '')[1])
+	return ('<a href="{url}">{url_title}</a>'
+			''.format(url=URLS.get(name, '')[0],
+					  url_title=URLS.get(name, '')[1]))
+
 
 BIO = \
 	u'''
-		<p>Full name: <strong>{name}</strong>.</p>
+		<p>I'm Tosin Animashaun, and in here is where I document stuff as I go. </p>
 		
-		<p>In here is where I document stuff as I go. Among a host of other
-		personas, I am a Christian, programmer, and budding entrepreneur. I am a part of {krohx}, and I am currently doing a Software Engineering program at {niit}.
+		<p>I currently contibute to the technical efforts at <a href="{ta}">TechAdvance</a>, a 
+		software development outfit out of Nigeria that has got her feet in 
+		payments, aggregation, transportion and the digitisation of government 
+		services.
+		</p>
+		
+		<p>I have previously delved into entrepreneurship with a group of 
+		friends at <a href="{krohx}">Krohx</a> and somewhat unofficially 
+		interned with <a href="{niit}">NIIT</a>.
 		</p>
 
-		<p>I enjoy reading. I appreciate writing; and I try to be good at this myself. Some other interests include singing, technology, and psychology.
+		<p>Aside from my day job as a backend developer, I spend a lot of my 
+		non-work time garnering more general knowledge to fuel my autodidact 
+		persona. I like to read well written content, and I occasionally try my 
+		hands at crafting good stuff like I do with this space.
+		
+		Some other interests of mine include music, art, and psychology.
 		</p>
 
-		<p>In my spare time, I listen to podcasts about different topics ranging from startups to technology, innovations, psychology and more.
+		<p>I am also an avid podcast listener. My listening areas of interest 
+		include: technology, psychology and history among others.
+		
+		</p>
+		
+		<p>Being an autodidact, I do not possess a college degree -- I do not completely 
+		believe in its efficacy. I have so far failed two attempts to obtain at least one.
+		</p>
+		
+		<p>
 		<br/>
-		<br/><b>Email: </b> acetakwas [at] gmail [dot] com
+		<br/><b>You can email me at </b> acetakwas [at] gmail [dot] com
 		</p>
-	'''.format(name=AUTHOR, krohx=get_link('krohx'), niit=get_link('niit'))
-
+	'''.format(ta='http://techadvance.ng',
+			   krohx='http://krohx.github.io',
+			   niit='http://niitlagos.com')
 
 
 AUTHOR_SHORTBIO = u'Christian | Programmer | Learner'
 AUTHOR_EMAIL = u'acetakwas@gmail.com'
-AUTHOR_EMAIL_HASH = md5(AUTHOR_EMAIL).hexdigest()
+AUTHOR_EMAIL_HASH = md5(AUTHOR_EMAIL.encode('utf-8')).hexdigest()
 TWITTER_USERNAME = u'acetakwas'
 GITHUB_USERNAME = u'takwas'
 GITHUB_BADGE = True
@@ -67,7 +86,7 @@ PATH = 'content/'
 #ARTICLE_DIR = PATH
 
 
-SITEURL = 'http://takwas.github.io'
+SITEURL = 'https://tosinmash.com'
 # FEED_DOMAIN = SITEURL
 # FEED_ATOM = 'feeds/main.atom.xml'
 # FEED_RSS = 'feeds/main.rss.xml'
@@ -93,10 +112,8 @@ SITEURL = 'http://takwas.github.io'
 # TRANSLATION_FEED_RSS = None
 
 
-
 # metadata information: date and slug data from filename
 FILENAME_METADATA='(?P<date>\d{4}-\d{2}-\d{2})_(?P<slug>.*)'
-
 
 
 SOCIAL_WIDGET_NAME = "I am on"
@@ -109,32 +126,20 @@ GRAB_ICONS = True
 
 # Social widget
 SOCIAL = (
-	('quora',
-		'http://quora.com/Tosin-Damilare-James-Animashaun'),
-	('github',
-		'http://github.com/takwas'),
-	('linkedin',
-		'http://ng.linkedin.com/in/acetakwas'),
-	('bitbucket',
-		'http://bitbucket.org/takwas'),
-	('goodreads',
-		'http://goodreads.com/user/show/41177369-tosin-damilare-james-animashaun'),
-	)
-          
-          #('Facebook', 'http://facebook.com/takwas')
-          #('Twitter', 'http://twitter.com/acetakwas'),
-          #('Google+', 'http://plus.google.com/+TosinAnimashaun/about?hl=en_GB')
-          #('Youtube', 'youtube.com/acetakwas'),)
+	('quora', 'http://quora.com/Tosin-Damilare-James-Animashaun'),
+	('github', 'http://github.com/takwas'),
+	('linkedin', 'http://ng.linkedin.com/in/acetakwas'),
+	('bitbucket', 'http://bitbucket.org/takwas'),
+	('goodreads', 'http://goodreads.com/user/show/41177369-tosin-damilare-james-animashaun'),
+)
 
-
+#('Facebook', 'http://facebook.com/takwas')
+#('Twitter', 'http://twitter.com/acetakwas'),
+#('Google+', 'http://plus.google.com/+TosinAnimashaun/about?hl=en_GB')
+#('Youtube', 'youtube.com/acetakwas'),)
 
 
 DEFAULT_PAGINATION = 200
-
-
-
-
-
 
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -142,7 +147,8 @@ DEFAULT_PAGINATION = 200
 
 
 # Settings for current theme
-THEME = 'plumage_takwas'
+# THEME = 'plumage_takwas'
+THEME = 'themes/plumage_takwas'
 #MD_EXTENSIONS = ['codehilite(css_class=codehilite code)']
 
 
@@ -160,7 +166,7 @@ MENUITEMS = (
 	#(''),
 	#('Being Christian', '/'),
 	('About', '#about'),
-	('Life Log', '/category/life-log.html'), )
+)
 
 SITESUBTITLE = SITE_TAGLINE
 
