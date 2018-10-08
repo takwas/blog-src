@@ -26,7 +26,7 @@ BIO = \
 		
 		<p>I currently contibute to the technical efforts at <a href="{ta}">TechAdvance</a>, a 
 		software development outfit out of Nigeria, that has got her feet in the
-		<a href={pay}>payments</a> and <a href="trp">transportation</a> spaces, as well 
+		<a href={pay}>payments</a> and <a href="{trp}">transportation</a> spaces, as well 
 		as in the digitisation of government services.
 		</p>
 		
