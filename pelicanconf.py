@@ -13,32 +13,33 @@ SITE_SOURCE = u'https://github.com/takwas/blog-src'
 AUTHOR = u'Tosin Damilare James Animashaun'
 
 
-# helper function to format URLs for BIO
-def get_link(name):
-	return ('<a href="{url}">{url_title}</a>'
-			''.format(url=URLS.get(name, '')[0],
-					  url_title=URLS.get(name, '')[1]))
+# # helper function to format URLs for BIO
+# def get_link(name):
+# 	return ('<a href="{url}">{url_title}</a>'
+# 			''.format(url=URLS.get(name, '')[0],
+# 					  url_title=URLS.get(name, '')[1]))
 
 
 BIO = \
 	u'''
-		<p>I'm Tosin Animashaun, and in here is where I document stuff as I go. </p>
+		<p>I'm Tosin Animashaun, a Nigerian, and in here is where I document stuff as I go. </p>
 		
 		<p>I currently contibute to the technical efforts at <a href="{ta}">TechAdvance</a>, a 
-		software development outfit out of Nigeria that has got her feet in 
-		payments, aggregation, transportion and the digitisation of government 
-		services.
+		software development outfit out of Nigeria, that has got her feet in the
+		<a href={pay}>payments</a> and <a href="trp">transportation</a> spaces, as well 
+		as in the digitisation of government services.
 		</p>
 		
 		<p>I have previously delved into entrepreneurship with a group of 
-		friends at <a href="{krohx}">Krohx</a> and somewhat unofficially 
-		interned with <a href="{niit}">NIIT</a>.
+		friends at <a href="{krohx}">Krohx</a>, but I am currently on hiatus from 
+		this. I have also somewhat unofficially interned with <a href="{niit}">NIIT</a>.
 		</p>
 
-		<p>Aside from my day job as a backend developer, I spend a lot of my 
-		non-work time garnering more general knowledge to fuel my autodidact 
-		persona. I like to read well written content, and I occasionally try my 
-		hands at crafting good stuff like I do with this space.
+		<p>Aside from my <a href="{dayjob}">day job as a backend developer</a>, 
+		I spend a lot of my non-work time <a href="{learning}">garnering more 
+		general knowledge</a> as fueling for my autodidact persona. I like to 
+		read well written content, and I occasionally try my hands at crafting 
+		good stuff like I am doing with this space.
 		
 		Some other interests of mine include music, art, and psychology.
 		</p>
@@ -49,16 +50,20 @@ BIO = \
 		</p>
 		
 		<p>Being an autodidact, I do not possess a college degree -- I do not completely 
-		believe in its efficacy. I have so far failed two attempts to obtain at least one.
+		believe in its efficacy -- as I have so far failed at two attempts to obtain at least one.
 		</p>
 		
 		<p>
 		<br/>
 		<br/><b>You can email me at </b> acetakwas [at] gmail [dot] com
 		</p>
-	'''.format(ta='http://techadvance.ng',
-			   krohx='http://krohx.github.io',
-			   niit='http://niitlagos.com')
+	'''.format(ta='http://www.techadvance.ng/',
+			   pay='http://www.gpayafrica.com/',
+			   trp='http://www.bus.com.ng/',
+			   krohx='http://krohx.github.io/',
+			   niit='http://niitlagos.com/',
+			   dayjob='http://ng.linkedin.com/in/acetakwas',
+			   learning='http://tosinmash.com/article/wholesome-learning.html')
 
 
 AUTHOR_SHORTBIO = u'Christian | Programmer | Learner'
@@ -116,7 +121,7 @@ SITEURL = 'https://tosinmash.com'
 FILENAME_METADATA='(?P<date>\d{4}-\d{2}-\d{2})_(?P<slug>.*)'
 
 
-SOCIAL_WIDGET_NAME = "I am on"
+SOCIAL_WIDGET_NAME = "Find me on"
 LINKS_WIDGET_NAME = "Bookmarks"
 
 GRAB_ICONS = True
@@ -154,18 +159,14 @@ THEME = 'themes/plumage_takwas'
 
 # Load thumbnail locally for development
 SITE_THUMBNAIL = '/theme/img/avatar_acetakwas.jpg'
-SITE_THUMBNAIL_TEXT = \
-	'''
-		A pen in hand,
-		speaks volumes
-	'''
+SITE_THUMBNAIL_TEXT = 'A pen in hand speaks volumes.'
 
 
 MENUITEMS = (
 	('Home', '/'),
 	#(''),
 	#('Being Christian', '/'),
-	('About', '#about'),
+	('Tosinmash', '#about'),
 )
 
 SITESUBTITLE = SITE_TAGLINE
