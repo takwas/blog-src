@@ -11,6 +11,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 
+
 SITEURL = 'http://takwas.github.io'
 SITE_FULL_URL = SITEURL
 SITEROOT = '/'
@@ -56,8 +57,6 @@ CATEGORY_URL = 'category/{slug}.html'
 CATEGORY_SAVE_AS = 'category/{slug}.html'
 TAG_URL = 'tag/{slug}.html'
 TAG_SAVE_AS = 'tag/{slug}.html'
-PAGE_URL = 'pages/{slug}/'
-PAGE_SAVE_AS = 'pages/{slug}.html'
 
 ARCHIVES_SAVE_AS = 'archives.html'
 CATEGORIES_SAVE_AS = 'categories.html'

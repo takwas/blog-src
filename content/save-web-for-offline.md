@@ -12,7 +12,7 @@ If you are in a location with internet connection issues, or limited by the amou
 
 Some websites or blogs have content arranged in order of chapters that I like to read in that order. And some others just appeal to me as troves of useful content that I would want to keep within easy reach. The challenge with this is that there are times when I have no active internet subcscription or connection, making such resources unavailable to me.
 
-Interestingly, it is possible for me to keep an entire website offline. With the help of some of tools, I could download the site for offline reading! This is **particularly workable with static sites** that have no interaction with the backend, other than delivering static pages to us -- so don't think of doing this with Facebook, or Quora. **:)**
+Interestingly, it is possible for me to keep an entire website offline. With the help of some tools, I could download the site for offline reading! This is **particularly workable with static sites** that have no interaction with the backend, other than delivering static pages to us -- so don't think of doing this with Facebook, or Quora. **:)**
 
 <br/>
 

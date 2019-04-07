@@ -20,20 +20,21 @@ AUTHOR = u'Tosin Damilare James Animashaun'
 # 					  url_title=URLS.get(name, '')[1]))
 
 
-BIO = \
+BIO = (
 	u'''
-		<p>I'm Tosin Animashaun, a Nigerian, and in here is where I document stuff as I go. </p>
+		<p>I'm Tosin Animashaun, a Nigerian, and in here is where I document 
+		stuff as I go. </p>
 		
-		<p>I currently contibute to the technical efforts at <a href="{ta}">TechAdvance</a>, a 
-		software development outfit out of Nigeria, that has got her feet in the
-		<a href={pay}>payments</a> and <a href="{trp}">transportation</a> spaces, as well 
-		as in the digitisation of government services.
-		</p>
+		<p>I currently contribute to the technical efforts at 
+		<a href="{ta}">TechAdvance</a>, a software development outfit out of 
+		Nigeria, that has got her feet in the <a href={pay}>payments</a> and 
+		<a href="{trp}">transportation</a> spaces, as well as in the 
+		digitisation of government services.</p>
 		
 		<p>I have previously delved into entrepreneurship with a group of 
-		friends at <a href="{krohx}">Krohx</a>, but I am currently on hiatus from 
-		this. I have also somewhat unofficially interned with <a href="{niit}">NIIT</a>.
-		</p>
+		friends at <a href="{krohx}">Krohx</a>, but I am currently on hiatus 
+		from this. I have also somewhat unofficially interned with 
+		<a href="{niit}">NIIT</a>.</p>
 
 		<p>Aside from my <a href="{dayjob}">day job as a backend developer</a>, 
 		I spend a lot of my non-work time <a href="{learning}">garnering more 
@@ -49,21 +50,21 @@ BIO = \
 		
 		</p>
 		
-		<p>Being an autodidact, I do not possess a college degree -- I do not completely 
-		believe in its efficacy -- as I have so far failed at two attempts to obtain at least one.
-		</p>
+		<p>Being an autodidact, I do not possess a college degree -- I do not 
+		completely believe in its efficacy -- as I have so far failed at two 
+		attempts to obtain at least one.</p>
 		
 		<p>
-		<br/>
 		<br/><b>You can email me at </b> acetakwas [at] gmail [dot] com
 		</p>
-	'''.format(ta='http://www.techadvance.ng/',
-			   pay='http://www.gpayafrica.com/',
-			   trp='http://www.bus.com.ng/',
-			   krohx='http://krohx.github.io/',
-			   niit='http://niitlagos.com/',
-			   dayjob='http://ng.linkedin.com/in/acetakwas',
-			   learning='http://tosinmash.com/article/wholesome-learning.html')
+		'''
+).format(ta='http://www.techadvance.ng/',
+		 pay='http://www.gpayafrica.com/',
+		 trp='http://www.bus.com.ng/',
+		 krohx='http://krohx.github.io/',
+		 niit='http://niitlagos.com/',
+		 dayjob='http://ng.linkedin.com/in/acetakwas',
+		 learning='http://tosinmash.com/article/wholesome-learning.html')
 
 
 AUTHOR_SHORTBIO = u'Christian | Programmer | Learner'
@@ -71,7 +72,37 @@ AUTHOR_EMAIL = u'acetakwas@gmail.com'
 AUTHOR_EMAIL_HASH = md5(AUTHOR_EMAIL.encode('utf-8')).hexdigest()
 TWITTER_USERNAME = u'acetakwas'
 GITHUB_USERNAME = u'takwas'
+GITHUB_URL = u'https://github.com/takwas'
 GITHUB_BADGE = True
+
+# LANDING_PAGE_ABOUT = {
+# 	'title': SITENAME,
+# 	'details': BIO
+# }
+
+# PROJECTS = [
+# 	{
+# 		'name': 'Slack Electioneer (Votebot)',
+# 		'url': 'https://github.com/takwas/slack-electioneer',
+# 		'description': 'An election conducting Slack bot.'
+# 	},
+#
+# 	{
+# 		'name': 'Contact Form',
+# 		'url': 'https://github.com/Krohx/contactform',
+# 		'description': 'Contact-Us-Form backend for static websites.'
+# 	},
+#
+# 	{
+# 		'name': 'Flask App Template',
+# 		'url': 'https://github.com/takwas/flask_app_template',
+# 		'description': 'A boilerplate codebase for Flask that I wrote when I '
+# 					   'first started out with Flask.'
+# 	}
+# ]
+
+# COMMENTS_INTRO = 'Comments Intro'
+STATIC_PATHS = ['theme/images', 'images']
 
 # custom config variable for IRC
 IRC_NICK = u'acetakwas'
@@ -82,16 +113,26 @@ RELATIVE_URLS = True
 
 DEFAULT_LANG = u'en'
 
-DEFAULT_CATEGORY = 'Uncategorized'
-#DISPLAY_CATEGORIES_ON_MENU = True
+# Whether folders in "content" should represent categories
+USE_FOLDER_AS_CATEGORY = True
 
+DEFAULT_CATEGORY = 'Uncategorized'
+DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = True
+
+DEFAULT_DATE_FORMAT = '%a %d %B %Y'
 TIMEZONE = 'Africa/Lagos'
+
+# DEFAULT_METADATA = ()
+# FILENAME_METADATA = '(?P<slug>.*)'  # Extract slug from filename
 
 PATH = 'content/'
 #ARTICLE_DIR = PATH
 
+# IGNORE_FILES = ['.#*', '*.bak']
 
-SITEURL = 'https://tosinmash.com'
+# SITEURL = 'https://tosinmash.com'
+
 # FEED_DOMAIN = SITEURL
 # FEED_ATOM = 'feeds/main.atom.xml'
 # FEED_RSS = 'feeds/main.rss.xml'
@@ -121,8 +162,8 @@ SITEURL = 'https://tosinmash.com'
 FILENAME_METADATA='(?P<date>\d{4}-\d{2}-\d{2})_(?P<slug>.*)'
 
 
-SOCIAL_WIDGET_NAME = "Find me on"
-LINKS_WIDGET_NAME = "Bookmarks"
+# SOCIAL_WIDGET_NAME = "Find me on"
+# LINKS_WIDGET_NAME = "Bookmarks"
 
 GRAB_ICONS = True
 
@@ -131,12 +172,16 @@ GRAB_ICONS = True
 
 # Social widget
 SOCIAL = (
-	('quora', 'http://quora.com/Tosin-Damilare-James-Animashaun'),
 	('github', 'http://github.com/takwas'),
 	('linkedin', 'http://ng.linkedin.com/in/acetakwas'),
-	('bitbucket', 'http://bitbucket.org/takwas'),
+	('quora', 'http://quora.com/Tosin-Damilare-James-Animashaun'),
 	('goodreads', 'http://goodreads.com/user/show/41177369-tosin-damilare-james-animashaun'),
+	('bitbucket', 'http://bitbucket.org/takwas'),
+	('twitter', 'http://twitter.com/acetakwas'),
+	# ('facebook', 'http://facebook.com/takwas'),
 )
+
+LINKS = SOCIAL
 
 #('Facebook', 'http://facebook.com/takwas')
 #('Twitter', 'http://twitter.com/acetakwas'),
@@ -153,26 +198,112 @@ DEFAULT_PAGINATION = 200
 
 # Settings for current theme
 # THEME = 'plumage_takwas'
-THEME = 'themes/plumage_takwas'
+# THEME = 'themes/plumage_takwas'
+
+# THEME = 'pure'
+
+THEME = 'sundown'
+THEME = 'sundown_custom'
+THEME = 'my_themes/sundown_custom'
+
+# THEME = 'mediumfox'
+
+# THEME = 'Flex'  # red-themed; profile info left side-bar
+
+# THEME = 'elegant'
+# THEME = 'alchemy'
+# THEME = 'apricot'
+# THEME = 'built-texts'
+# THEME = 'dev-random3'
+# THEME = 'hyde'
+# THEME = 'iris'
+# THEME = 'Just-Read'
+# THEME = 'MinimalXY'
+# THEME = 'mnmlist'
+# THEME = 'monospace'
+# THEME = 'Nuja'
+# THEME = 'pelican-simplegrey'
+# THEME = 'pelican-sober'
+# THEME = 'taman'
+# THEME = 'graymill'
+# THEME = 'medio'
+
 #MD_EXTENSIONS = ['codehilite(css_class=codehilite code)']
 
 
 # Load thumbnail locally for development
-SITE_THUMBNAIL = '/theme/img/avatar_acetakwas.jpg'
-SITE_THUMBNAIL_TEXT = 'A pen in hand speaks volumes.'
+# SITE_THUMBNAIL = '/theme/img/avatar_acetakwas.jpg'
+# SITE_THUMBNAIL_TEXT = 'A pen in hand speaks volumes.'
 
 
-MENUITEMS = (
-	('Home', '/'),
-	#(''),
-	#('Being Christian', '/'),
-	('Tosinmash', '#about'),
-)
+# MENUITEMS = (
+# 	('Home', '/'),
+# 	#(''),
+# 	#('Being Christian', '/'),
+# 	('Tosinmash', '#about'),
+# )
+
+# Extra Jinja2 Pages to be rendered alongside blog content
+# TEMPLATE_PAGES = {'src/books.html': 'dest/books.html',
+#                   'src/resume.html': 'dest/resume.html',
+#                   'src/contact.html': 'dest/contact.html'}
+
+TEMPLATE_PAGES = {
+	# 'pages/about-template.html': 'about.html'
+}
+
+EXTRA_PATH_METADATA = {
+	'theme/images/favicon.ico': {'path': 'favicon.ico'}
+}
 
 SITESUBTITLE = SITE_TAGLINE
 
-DISCLAIMER = False
+# DISCLAIMER = False
 
 
 # # Support for Disqus comments
 # DISQUS_SITENAME = 'acetakwas-log'
+
+
+# ELEGANT THEME CONFIGS
+
+# PLUGINS = ['sitemap', 'extract_toc', 'tipue_search']
+# MARKDOWN = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc']
+# DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
+
+# STATIC_PATHS = ['theme/images', 'images']
+# TAG_SAVE_AS = ''
+# CATEGORY_SAVE_AS = ''
+# AUTHOR_SAVE_AS = ''
+
+# RECENT_ARTICLES_COUNT (integer)
+# COMMENTS_INTRO ('string')
+# SITE_LICENSE ('string')
+# SITE_DESCRIPTION ('string')
+# EMAIL_SUBSCRIPTION_LABEL ('string')
+# EMAIL_FIELD_PLACEHOLDER ('string')
+# SUBSCRIBE_BUTTON_TITLE ('string')
+# MAILCHIMP_FORM_ACTION ('string')
+# SITESUBTITLE ('string')
+# LANDING_PAGE_ABOUT ({})
+# PROJECTS ([{},...])
+
+
+# SUNDOWN THEME CONFIGS
+import urllib.parse
+
+EMAIL = AUTHOR_EMAIL
+GRVTR_SIZE = 160
+# DEFAULT_GRV_URL = ''
+
+# construct gravatar URL
+grvtr_base_url = 'http://www.gravatar.com/avatar/'
+email_md5 = md5(EMAIL.lower().encode('utf-8')).hexdigest()
+grvtr_query_str = urllib.parse.urlencode({'s': str(GRVTR_SIZE)})
+GRV_URL = f'{grvtr_base_url}{email_md5}?{grvtr_query_str}'
+
+WITH_FUTURE_DATES = False
+
+PAGE_PATHS = ['pages']
+# PAGE_URL = 'pages/{slug}'
+# PAGE_SAVE_AS = 'pages/{slug}.html'

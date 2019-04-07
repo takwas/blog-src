@@ -12,3 +12,5 @@ gitnore
 *.sqlite
 migrations
 pelican_themes
+pelican-plugins
+pelican-themes

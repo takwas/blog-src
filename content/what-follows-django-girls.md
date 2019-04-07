@@ -29,7 +29,7 @@ So you learnt Python alongside its arguably most popular web-development framewo
 
 So get creative; I assure you you've gotten past the first and most basic hurdle to creating just about any kind of web app: a social network or an e-commerce platform or something else that's interesting. Think of how important this is in an age when everything is moving to the web. You've definitely gotten a head start!
 
-But you'd need to be prepared to learn new stuff as you go. Don't let that put you off as those things would be equally exciting. And you don't have to know it all before you begin; you can learn on-the-job.
+But you'd need to be prepared to learn new stuff as you go. Don't let that put you off, as those things would be equally exciting. And you don't have to know it all before you begin; you can learn on-the-job.
 
 <br/>
 Speaking of what you learnt at the workshop, I'm sure you know you were merely introduced to the technologies, not taught comprehensively. In my opinion, you may need to go over [the whole tutorial](http://tutorial.djangogirls.org/en/) again; then try to build something different -- like [a ToDo application](http://code.tutsplus.com/articles/intro-to-django-building-a-to-do-list--net-2871) -- from the example shown. Afterwards, for some more comprehensive Python tutorial that is hands-on, try [codecademy](https://www.codecademy.com/learn/python). It'll be fun, trust me.

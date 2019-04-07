@@ -1,5 +1,6 @@
 Title: To be Forearmed is to be Help-ready
 Date: 2015-12-15 12:10
+Modified: 2019-04-06 22:40
 Tags: irc, help, programming, beginner, pastebin, documentation, practice, dev, planet
 Slug: readying-for-net-help
 Summary: If you are seeking programming help, then do your homework or your potential helpers might raise eyebrows.
@@ -29,7 +30,7 @@ This was the sort of thing that happened to me when I began _flooding_ the chann
 What did I learn from that? __"Do your own research!"__ It's so easy to skip this part, but if you make efforts at finding things out for yourself, you'll be surprised at how much you can dig out without having to bug people. However, this does not guarantee that even the few important questions you'll ask may not be met with hostility, but do not let that discourage you. The people who appear to be unwelcoming are doing so only as a way to discourage you from being over-dependent on the channel.
 Another advantage of finding things for yourself is that, you learn the __why__ and not just the __how__.
 
-I think it's fair to quote [Armin Ronacher](http://lucumr.pocoo.org/about/) here,
+<span id="armin_quote">I think it's fair to quote [Armin Ronacher](http://lucumr.pocoo.org/about/) here,</span>
 
 >"And it's not just asking questions; questioning other people, like what other people do or what you do yourself.
 
@@ -77,6 +78,7 @@ So why not arm yourself properly before going to post that question. That way, y
 __ __
 
 #####[1] Some Pastebin platforms I use:
+ - [Paste ofCode](https://paste.ofcode.org/)
  - [Pastebin](http://pastebin.com)
  - [Hastebin](http://hastebin.com)
  - [Ubuntu Pastebin](http://paste.ubuntu.com)

@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="{{ DEFAULT_LANG }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{% block title %}{% endblock %} -- {{ SITENAME }}</title>
+
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}">
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygment_trac.css">
+<!--    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.5.0/themes/prism.min.css"/>-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Social Media Buttons Dependency -->
+    <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5ca9ba91fb6af900122ed61e&product='inline-share-buttons' async='async'></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <div><img src="{{ GRV_URL }}" class="grv-img"/></div>
+        <div class="title"><a href="{{ SITEURL }}/">{{ SITENAME }} </a></div>
+<!--        <div class="sub-title">-->
+<!--          <pre><code class="Python">{% if SITESUBTITLE %}{{ SITESUBTITLE }}{% endif %}</code></pre>-->
+
+<!--        </div>-->
+
+        {% include 'sidebar.html' %}
+
+      </header>
+      <section>
+      {% block content %}
+
+      {% endblock %}
+      </section>
+
+
+      <footer>
+        <!-- Social links -->
+{% if SOCIAL %}
+<div class="social">
+<!--<h4>You can find me on:</h4>-->
+<ul>
+  {% for name, link in SOCIAL %}
+<!--    <li><a href="{{ link }}">{{ name }}</a></li>-->
+    <li><a href="{{ link }}"></a></li>
+  {% endfor %}
+</ul>
+
+</div>
+{% endif %}
+        <p id="copyright-duration">&copy 2015-<span id="currentYear"></span></p>
+        <hr/>
+        <p><strong><a href="./about">{{ AUTHOR }}</a></strong></p>
+        <small>
+          <p>Except where otherwise noted, content on this site is licensed under
+          a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+            Attribution 4.0 International license.</a></p>
+          <p>A
+            <a href="https://github.com/getpelican/pelican">Pelican</a>-powered and
+            <a href="https://github.com/keningle/pelican-sundown">Sundown</a>-themed blog.
+          </p>
+        </small>
+      </footer>
+
+    </div>
+    <!-- Scale fix -->
+    <script>
+      var metas = document.getElementsByTagName('meta');
+      var i;
+      
+      if (navigator.userAgent.match(/iPhone/i)) {
+        for (i=0; i<metas.length; i++) {
+          if (metas[i].name == "viewport") {
+            metas[i].content = "width=device-width, minimum-scale=1.0, maximum-scale=1.0";
+          }
+        }
+      
+        document.addEventListener("gesturestart", gestureStart, false);
+      }
+
+      function gestureStart() {
+        for (i=0; i<metas.length; i++) {
+          if (metas[i].name == "viewport") {
+            metas[i].content = "width=device-width, minimum-scale=0.25, maximum-scale=1.6";
+          }
+        }
+      }
+    </script>
+    <script>
+
+      var currentYear = new Date().getFullYear();
+      document.getElementById('currentYear').innerHTML = currentYear;
+    </script>
+
+    <!--For code snippet language-aware highlight support.-->
+<!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.5.0/prism.min.js"></script>-->
+    {% include 'analytics.html' %}
+  </body>
+</html>

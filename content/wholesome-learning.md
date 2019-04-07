@@ -24,7 +24,7 @@ What's more? Movie production crews are very mindful of their usage of time, so 
 
 But it's not all movies. There are of course, other sources I learn from.
 
-While I have not really taking any writing course despite my yearnings for qualitative writing, I have over time continued to gauge the quality of my writings both with the help of some kind reviewers and through self review, I am always glad to hear positive comments; and I make certain to improve on the negative ones.
+While I have not really taken any writing course despite my yearnings for qualitative writing, I have over time continued to gauge the quality of my writings both with the help of some kind reviewers and through self review, I am always glad to hear positive comments; and I make certain to improve on the negative ones.
 
 But most importantly, I learn and improve -- almost passively -- from simply taking in other people's works. When I scour the net for information or read blog posts or articles, I am not just getting what I need at that moment, but I am also taking in, albeit subconsciously, the presentation style of the document.
 
