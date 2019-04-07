@@ -1,5 +1,6 @@
 Title: >>> pyconweb.talks.select_speaker('acetakwas')
 Date: 2019-04-07 13:00
+Modified: 2019-04-07 23:45
 Tags: talk, conference, presentation, werkzeug, pallets, pocoo, public speaking, armin ronacher
 Slug: goto-pyconweb
 Summary: München, München, hier komme ich!
@@ -17,9 +18,9 @@ I reached out to [davidism](https://twitter.com/davidism) on the
 [Pallets Projects' Discord server](https://discord.gg/ZVcuNu). A few 
 minutes on and I was good to go. 
 
-I submitted, informed the [girlfriend](https://twitter.com/yinye_m), and we kept 
+I submitted, informed the [lady](https://twitter.com/yinye_m), and we kept 
 our phalanges crossed. 12 days later, I got the first feedback. I should 
-commend the organising PyConWeb organising team for being really nice all the 
+commend the PyConWeb organising team for being really nice all the 
 way. I got the notification about the accepted talk in another 11 days -- March 
 09, precisely.
 
@@ -73,4 +74,6 @@ For now, it's back to prepping for München, for me.
 
 <br/>
 
-_Liebe Grüße._
+_Liebe Grüße._ 
+
+_TosinMash_
