@@ -20,7 +20,7 @@
     <div class="wrapper">
       <header>
         <div><img src="{{ GRV_URL }}" class="grv-img"/></div>
-        <div class="title"><a href="{{ SITEURL }}/">{{ SITENAME }} </a></div>
+        <div class="title"><a href="{{ SITEURL }}/" style="color: #555;">{{ SITENAME }} </a></div>
 <!--        <div class="sub-title">-->
 <!--          <pre><code class="Python">{% if SITESUBTITLE %}{{ SITESUBTITLE }}{% endif %}</code></pre>-->
 
@@ -54,12 +54,15 @@
         <hr/>
         <p><strong><a href="./about">{{ AUTHOR }}</a></strong></p>
         <small>
-          <p>Except where otherwise noted, content on this site is licensed under
-          a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons
-            Attribution 4.0 International license.</a></p>
-          <p>A
-            <a href="https://github.com/getpelican/pelican">Pelican</a>-powered and
-            <a href="https://github.com/keningle/pelican-sundown">Sundown</a>-themed blog.
+            <div id=cc-badge>
+              <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+                <img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+              </a>
+            </div>
+
+          <p>
+            <a href="https://github.com/getpelican/pelican">Pelican</a>-powered.
+            <a href="https://github.com/keningle/pelican-sundown">Sundown</a>-themed.
           </p>
         </small>
       </footer>

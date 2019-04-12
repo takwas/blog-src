@@ -126,7 +126,8 @@ TIMEZONE = 'Africa/Lagos'
 # DEFAULT_METADATA = ()
 # FILENAME_METADATA = '(?P<slug>.*)'  # Extract slug from filename
 
-PATH = 'content/'
+PATH = 'content/'  # Top-level diretory in which to find content
+IGNORE_FILES = ['drafts']  # File or directory patterns to ignore processing
 #ARTICLE_DIR = PATH
 
 # IGNORE_FILES = ['.#*', '*.bak']

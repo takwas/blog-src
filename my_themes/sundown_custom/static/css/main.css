@@ -5,7 +5,8 @@ body {
   font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   // color:#777;
   color: #333;
-  font-weight:300;
+  /*font-weight:300;*/
+  font-weight:500;
 }
 
 .grv-img {
@@ -43,7 +44,8 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  /*color:#39c;*/
+  color:#0772a8;
   font-weight:400;
   text-decoration:none;
 }
@@ -144,6 +146,10 @@ header .title {
   font-size: 28px;
   padding-top: 2px;
   padding-bottom: 8px;
+}
+
+div[class='view']{
+    margin-bottom: 7px;
 }
 
 div[class='social'] a {

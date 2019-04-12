@@ -1,9 +1,14 @@
 {% if DISPLAY_PAGES_ON_MENU -%}
+<p style="color: 9F9F9F;">
+
+<!--  <i>A fuddy-duddy afrontend backend programmer.</i>-->
+  <i>A terminal friendly, afrontend-type backend programmer.</i>
+</p>
 <p>
   {% for page in pages %}
-    <div class="view"><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></div>
+    <div class="view"><strong>>>></strong> <a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></div>
   {% endfor %}
-  <div class="view"><a href="{{ SITEURL }}/archives.html">Archives</a></div>
+  <div class="view"><strong>>>></strong> <a href="{{ SITEURL }}/archives.html">Archives</a></div>
 </p>
 {% endif %}
 
