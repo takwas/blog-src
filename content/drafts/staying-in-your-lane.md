@@ -1,9 +1,10 @@
-Title: A Rich Poor Country
-Date: 2019-04-10 07:23
-Modified: 2019-04-07 23:45
-Tags: nigeria
-Slug: a-rich-poor-country
-Summary: Nigeria is rich, yet so poor.
+Title: SOME TITLE
+Date: YYYY-MM-DD HH:MM
+Modified: YYYY-MM-DD HH:MM
+Tags: SOME, TAG, KEYWORDS, OR, KEYPHRASES
+Slug: ARTICLE-SLUG
+Summary: A VERY PRECISE SUMMARY ABOUT THIS ARTICLE
+
 
 
 

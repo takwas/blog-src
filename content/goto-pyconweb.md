@@ -1,7 +1,7 @@
 Title: >>> 'acetakwas' in pyconweb.speakers
 Date: 2019-04-07 13:00
 Modified: 2019-04-12 01:30
-Tags: talk, conference, presentation, werkzeug, pallets, pocoo, public speaking, armin ronacher, München, Munich, Germany
+Tags: talk, conference, presentation, werkzeug, python, pallets, pocoo, public speaking, armin ronacher, München, Munich, Germany
 Slug: goto-pyconweb
 Summary: München, München, hier komme ich!
 
@@ -10,7 +10,9 @@ Summary: München, München, hier komme ich!
 I am not big on festivities or rituals, but this year's Feb-14th day presented me 
 a wonderful "opportunity", which I was quick to seize by the throat. It was an 
 *early* early-bird-tickets announcement. But more importantly, it was also a 
-notification of the closing window on CFPs within the 24 hours to follow.
+notification of the closing window on 
+[CFPs](https://www.quora.com/What-does-call-for-papers-mean) within the 24 
+hours to follow.
 
 For some reason, I felt quite optimistic about a possible chance to speak, and 
 quickly put together the draft for a talk proposal. To get someone to review, I hit 
@@ -19,18 +21,19 @@ quickly put together the draft for a talk proposal. To get someone to review, I 
 few minutes on and I was good to go; and so it was that I put-in something of a 
 nick-of-time submission.
 
-Upon informing _the [lady](https://twitter.com/yinye_m)_, which is customary for 
-me, _we reached for cloaks of hope, as we kept our phalanges crossed._ 
-I received the first feedback some 12 days later.<sup>__[1]__</sup> And in another 11 days 
-(on March 09), the notification about the talk's selection came in. _Woot!_
+Next, I informed _the [lady](https://twitter.com/yinye_m)_, as I am wont to do. 
+With our phalanges kept crossed, we wrapped up in cloaks of hope. I received 
+the first feedback some 12 days later.<sup>__[1]__</sup> Then, in another 11 
+days (on March 09), the notification about the talk's selection arrived. _Woot!_
 
 
 ---
 ![Event Program.]({attach}images/pyconweb-program-werkzeug-acetakwas.png)
 
 
-So come [26th May, 2019](https://pyconweb.com/talks/26-05-2019/werkzeug-whats-in-it-for-me), 
-I will be giving a talk on one of the nifty tools contained in the arsenal of 
+This means that come [26th May, 2019](https://pyconweb.com/talks/26-05-2019/werkzeug-whats-in-it-for-me), 
+I will be given some 30 minutes before an audience at [PyConWeb](https://pyconweb.com/), 
+for a presentation on one of the nifty tools contained in the arsenal of 
 [Pallets Projects](https://palletsprojects.com/): the **Werkzeug** library.
 
 [Werkzeug](https://palletsprojects.com/p/werkzeug/), which I'd much rather refer 

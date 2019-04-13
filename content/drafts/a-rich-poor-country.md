@@ -7,6 +7,7 @@ Summary: Nigeria is rich, yet so poor.
 
 
 
+
 You can expect to seldom find me in the caucus of political debaters. You'd bet my
 knowledge of whatever hapeens that space is crude.
 
