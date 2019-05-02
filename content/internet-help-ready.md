@@ -47,7 +47,7 @@ Let me remind you of some __tidbits or etiquettes of IRC__:
 * Construct your questions well (concise, well written and straight-to-the-point questions are more likely to attract help)
   
   
-* Don't EVER post code in a channel! [Pastebin](https://en.wikipedia.org/wiki/Pastebin)<sup>__[1]__</sup> it and share the link in the channel instead. While at it, don't post your entire code (unless you specifically need to). Post only the relevant portion -- the one you have an issue with. The only exception to this is if the snippet of code is considerably short, say one or two lines.
+* Don't EVER post code in a channel! [Pastebin](https://en.wikipedia.org/wiki/Pastebin)[<sup>__[1]__</sup>](#footnote) it and share the link in the channel instead. While at it, don't post your entire code (unless you specifically need to). Post only the relevant portion -- the one you have an issue with. The only exception to this is if the snippet of code is considerably short, say one or two lines.
 
   
   
@@ -75,17 +75,17 @@ So where do you look to before looking to IRC? There are three sources you may _
 So why not arm yourself properly before going to post that question. That way, you would not only make it easier to get help [for yourself], but you would be better informed.
 
 <br/>
-__ __
 
-#####[1] Some Pastebin platforms I use:
- - [Paste ofCode](https://paste.ofcode.org/)
- - [Pastebin](http://pastebin.com)
- - [Hastebin](http://hastebin.com)
- - [Ubuntu Pastebin](http://paste.ubuntu.com)
- - [Pastie](http://pastie.org)
- - [Spacepaste](http://paste.pound-python.org)
- - [##Linux on Freenode](http://paste.linux.chat)
+<hr id="footnote"/>
 
-Then [Github](http://github.com) provides a platform which supports version-controlled pastes: [Github Gists](http://gist.github/com).
+1. Some Pastebin platforms I use:
+    - [Paste ofCode](https://paste.ofcode.org/)
+    - [Pastebin](http://pastebin.com)
+    - [Hastebin](http://hastebin.com)
+    - [Ubuntu Pastebin](http://paste.ubuntu.com)
+    - [Pastie](http://pastie.org)
+    - [Spacepaste](http://paste.pound-python.org)
+    - [##Linux on Freenode](http://paste.linux.chat)
+    - [Github Gists](http://gist.github/com) -- A [Github](http://github.com)-owned pastebin platform with support for version-controlled pastes.
  
 __Note:__ Because [Hastebin](http://hastebin.com) heavily depends on Javascript, some people have complained of text-rendering issues possibly arising from browser-compatibility issues with it. So take caution using it. That said, I love its ease-of-use. It supports the use of keyboard shortcuts such as `[Ctrl]+[S]` to __Save__.

@@ -7,9 +7,5 @@ Summary: A VERY PRECISE SUMMARY ABOUT THIS ARTICLE
 
 
 
-Werkzeug
 
-The web is ...
-
-
-PEP 333 (and 3333) is the reason why [Werkzeug]() exists. 
+It is not in how perfect but how consistent.

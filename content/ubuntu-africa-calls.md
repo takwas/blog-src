@@ -24,7 +24,7 @@ My recent foray into the African developer community had informed me about this 
 
 Minutes before the meeting, some users (myself inclusive) had arrived the IRC channel and engaged in discussions while patiently waiting for the scheduled meeting time.
 
-The meeting began at the set time. And it was, as it was customary, chaired by a user whom had been elected in the last meeting Naeil Zoueidi (@Na3iL)<sup>__[2]__</sup> from Tunisia. The other person who seemed to have some good footing in the house was Miles Sharp (@Kilos)<sup>__[2]__</sup> from South Africa.
+The meeting began at the set time. And it was, as it was customary, chaired by a user whom had been elected in the last meeting Naeil Zoueidi (@Na3iL)[<sup>__[1]__</sup>](#footnote) from Tunisia. The other person who seemed to have some good footing in the house was Miles Sharp (@Kilos)[<sup>__[1]__</sup>](#footnote) from South Africa.
 
 Attendees at the meeting came from different African nations including Cameroon (with the highest population and mostly first-timers), Tunisia, South Africa, Ghana, Zimbabwe, RDC and Nigeria.
 
@@ -96,8 +96,9 @@ I think the name of the user who came in at this time deserves a mention. It was
 
 
 <br/>
-__ __
 
-#####[1] The word "nuxers" is a portmanteau of the words "Linux" and "users".
+<hr id="footnote"/>
 
-#####[2] The nicks don't need the preceeding '@'. It's used here for emphasis.
+<!--1. The word "nuxers" is a portmanteau of the words "Linux" and "users".-->
+
+1. IRC nicks do not require a precceeding **'@'**. It's only used here for emphasis.

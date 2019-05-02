@@ -21,7 +21,7 @@ Recently, we decided to have our clients join our Slack team, with some envisage
 In doing this, we were presented with a small challenge. All of our previous conversations which had mostly being in the public, general channel, **_#general_**, were now open to our newly signed-on client. Some of these conversations obviously included stuff we would rather be more privy about. This meant I had to quickly find a way to _migrate_ -- I chose not to _delete_ -- the messages in the hope that he had not scrolled back through the channel's message log.
 
 
-This would have been easier if Slack allowed certain modifications to the default channel named _#general_<sup>__[1]__</sup>. For instance, Slack prevents the deletion of this channel. On top of that, Slack puts some restrictions on private channels:
+This would have been easier if Slack allowed certain modifications to the default channel named _#general_.[<sup>__[1]__</sup>](#footnote) For instance, Slack prevents the deletion of this channel. On top of that, Slack puts some restrictions on private channels:
 
 * They can't be [deleted, but can be _archived_](https://get.slack.help/hc/en-us/articles/213185307-Deleting-a-channel).
 * They can't be changed to _public_ channels even though the reverse is possible.
@@ -29,7 +29,7 @@ This would have been easier if Slack allowed certain modifications to the defaul
 <br/>
 These limitations notwithstanding, the following explains my approach to tackling the problem.
 
-First I used Slack's [export](https://get.slack.help/hc/en-us/articles/201658943-Exporting-your-team-s-Slack-history) feature to backup all of our conversations, including channel information. A caveat here is, _Slack does not include private channels' data with exported data by default_<sup>__[2]__</sup>, but thankfully, we hadn't any private rooms at the time.
+First I used Slack's [export](https://get.slack.help/hc/en-us/articles/201658943-Exporting-your-team-s-Slack-history) feature to backup all of our conversations, including channel information. A caveat here is, _Slack does not include private channels' data with exported data by default,_[<sup>__[2]__</sup>](#footnote) but thankfully, we hadn't any private rooms at the time.
 
 Now, Slack exports team data in JSON format, making it very easy to work with. Having downloaded the exported data, I started looking through it for parts that I could tweak.
 
@@ -50,11 +50,12 @@ With all these in place, I did two more things:
 
 
 <br/>
-__ __
 
-#####[1] More on Slack's default channel - #general
-* [https://get.slack.help/hc/en-us/articles/201827866-Renaming-the-general-channel](https://get.slack.help/hc/en-us/articles/201827866-Renaming-the-general-channel)
-* [https://get.slack.help/hc/en-us/articles/201898998-Setting-default-channels-for-new-users](https://get.slack.help/hc/en-us/articles/201898998-Setting-default-channels-for-new-users)
+<hr id="footnote"/>
 
-#####[2] Exporting private data from Slack
-* [https://get.slack.help/hc/en-us/articles/204897248-Understanding-Slack-data-exports](https://get.slack.help/hc/en-us/articles/204897248-Understanding-Slack-data-exports)
+1. More on Slack's default channel - #general
+    * [https://get.slack.help/hc/en-us/articles/201827866-Renaming-the-general-channel](https://get.slack.help/hc/en-us/articles/201827866-Renaming-the-general-channel)
+    * [https://get.slack.help/hc/en-us/articles/201898998-Setting-default-channels-for-new-users](https://get.slack.help/hc/en-us/articles/201898998-Setting-default-channels-for-new-users)
+
+2. Exporting private data from Slack
+    * [https://get.slack.help/hc/en-us/articles/204897248-Understanding-Slack-data-exports](https://get.slack.help/hc/en-us/articles/204897248-Understanding-Slack-data-exports)

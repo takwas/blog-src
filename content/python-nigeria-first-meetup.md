@@ -83,6 +83,6 @@ This was it. Thanks were in order (especially to [CcHub](http://cchubnigeria.com
 
     https://mail.python.org/mailman/listinfo/python-nigeria
 
-**and sending an email requesting an invite to:**
+**and by sending an email requesting an invite to:**
     
     python-nigeria@python.org

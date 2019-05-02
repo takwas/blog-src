@@ -7,7 +7,7 @@ Summary: München, München, hier komme ich!
 
 
 
-I am not big on festivities or rituals, but this year's Feb-14th day presented me 
+I am not big on festivities or rituals, but this year's **Feb-14th day** presented me 
 a wonderful "opportunity", which I was quick to seize by the throat. It was an 
 *early* early-bird-tickets announcement. But more importantly, it was also a 
 notification of the closing window on 
@@ -16,14 +16,14 @@ hours to follow.
 
 For some reason, I felt quite optimistic about a possible chance to speak, and 
 quickly put together the draft for a talk proposal. To get someone to review, I hit 
-[Pallets Projects' Discord](https://discord.gg/ZVcuNu) and reached out to 
+[Pallets Projects' Discord](https://discord.gg/J8pyRdj) and reached out to 
 [davidism](https://twitter.com/davidism), who was kind enough to indulge me. A 
 few minutes on and I was good to go; and so it was that I put-in something of a 
 nick-of-time submission.
 
 Next, I informed _the [lady](https://twitter.com/yinye_m)_, as I am wont to do. 
-With our phalanges kept crossed, we wrapped up in cloaks of hope. I received 
-the first feedback some 12 days later.<sup>__[1]__</sup> Then, in another 11 
+And with our phalanges kept crossed, we wrapped up in cloaks of hope. I received 
+the first feedback some 12 days later.[<sup>__[1]__</sup>](#footnote) Then, in another 11 
 days (on March 09), the notification about the talk's selection arrived. _Woot!_
 
 
@@ -31,7 +31,7 @@ days (on March 09), the notification about the talk's selection arrived. _Woot!_
 ![Event Program.]({attach}images/pyconweb-program-werkzeug-acetakwas.png)
 
 
-This means that come [26th May, 2019](https://pyconweb.com/talks/26-05-2019/werkzeug-whats-in-it-for-me), 
+This means that come [26th May, 2019](https://pyconweb.com/#program)[<sup>__[2]__</sup>], 
 I will be given some 30 minutes before an audience at [PyConWeb](https://pyconweb.com/), 
 for a presentation on one of the nifty tools contained in the arsenal of 
 [Pallets Projects](https://palletsprojects.com/): the **Werkzeug** library.
@@ -63,9 +63,9 @@ Werkzeug, on the other hand, cannot be spoken about without the mention of
 [WSGI](https://wsgi.readthedocs.io/en/latest/), which is, essentially, what it 
 wraps. Bundling a lot of WSGI utilities out-of-the-box, Werkzeug provides a lot of 
 the core apparatus for building or working-with a Python web framework at the low 
-level. In fact, if you happen to know a thing or two about the early-day 
+level. In fact, if you happen to know a thing or two about the [early-day 
 struggles with web programming in Python and how WSGI came forth as the silver 
-bullet that alleviated all of our web-server communication problems, then you 
+bullet that alleviated all of our web-server communication problems](), then you 
 would be quick to laud the efforts of Armin.
 
 
@@ -89,6 +89,11 @@ _TosinMash_
 
 
 <br/>
-__ __
 
-#####[1] Much commendation for the [PyConWeb](https://twitter.com/pyconweb) organising team for their _extreme_ niceness all the way.
+
+<hr id="footnote"/>
+
+1. Much commendation for the [PyConWeb](https://twitter.com/pyconweb) organising team for their _extreme_ niceness all the way.
+
+2. Direct link to my talk. The link appears to be inconsistently broken: 
+[https://pyconweb.com/talks/26-05-2019/werkzeug-whats-in-it-for-me](https://pyconweb.com/talks/26-05-2019/werkzeug-whats-in-it-for-me)
